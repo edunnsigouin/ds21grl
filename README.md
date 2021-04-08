@@ -65,6 +65,6 @@ This research was funded by Research Council of Norway grants Dynamite 255027, N
 
 Acknowledgments
 ----------------
-[NCAR](https://ncar.ucar.edu/) is acknowledged for providing free access to the CAM5 model. [Tim Woollings](https://www2.physics.ox.ac.uk/contacts/people/woollings) provided helpful discussions and [Ingo Bethke](https://www.bjerknes.uib.no/en/people/ingo-bethke) helped to setup the model. [Julius Busecke](http://jbusecke.github.io/) gave important advice on how to publish reproducible research and organize the github repository for this project.
+[NCAR](https://ncar.ucar.edu/) and [ECMWF](https://www.ecmwf.int/) are acknowledged for providing free access to the CAM5 model and ERA-interim data. [Tim Woollings](https://www2.physics.ox.ac.uk/contacts/people/woollings) provided helpful discussions and [Ingo Bethke](https://www.bjerknes.uib.no/en/people/ingo-bethke) helped to setup the model. [Julius Busecke](http://jbusecke.github.io/) gave important advice on how to publish reproducible research and organize the github repository for this project.
 
 
