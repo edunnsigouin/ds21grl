@@ -1,0 +1,12 @@
+
+__pycache__/
+
+*.egg-info/
+
+DEV/
+
+
+
+14.1-calc-yt-zm-pl-daily-erai.py
+
+20.1-calc-zm-rms-V-stw-pl-erai.py

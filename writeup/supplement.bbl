@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Trenberth%
+\ \BBA {} Solomon%
+}{%
+Trenberth%
+\ \BBA {} Solomon%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+TrenberthSolomon1994}
+\APACinsertmetastar {%
+TrenberthSolomon1994}%
+\begin{APACrefauthors}%
+Trenberth, K\BPBI E.%
+\BCBT {}\ \BBA {} Solomon, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The global heat balance: Heat transports in the
+  atmosphere and ocean} {The global heat balance: Heat transports in the
+  atmosphere and ocean}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Climate Dyn.}{10}{3}{107-134}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

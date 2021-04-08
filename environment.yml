@@ -1,0 +1,18 @@
+name: ds21grl_env
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python=3.6    # Python version 3.6
+    - bottleneck    # C-optimized array functions for NumPy
+    - cartopy       # Geographic plotting toolkit
+    - future        # Python 2/3 compatibility
+    - matplotlib    # 2D plotting library
+    - netcdf4       # Wrapper for netcdf4
+    - numpy         # N-d array and numerics
+    - pandas        # Labeled array library
+    - scipy         # Common math/stats/science functions
+    - scikit-learn  # Macine learning library
+    - statsmodels   # Regression/modeling toolkit
+    - six           # Python 2/3 compatibility
+    - xarray        # N-d labeled array library

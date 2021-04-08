@@ -1,0 +1,2433 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.5.21)  8 APR 2021 15:42
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Dunn-Sigouin_etal_2020_GRL_submit_v3.tex
+(./Dunn-Sigouin_etal_2020_GRL_submit_v3.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(./agujournal2019.cls
+Document Class: agujournal2019 01/14/2019
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count80
+\output=\toks15
+\linenoprevgraf=\count81
+\linenumbersep=\dimen104
+\linenumberwidth=\dimen105
+\c@linenumber=\count82
+\c@pagewiselinenumber=\count83
+\c@LN@truepage=\count84
+\c@internallinenumber=\count85
+\c@internallinenumbers=\count86
+\quotelinenumbersep=\dimen106
+\bframerule=\dimen107
+\bframesep=\dimen108
+\bframebox=\box26
+LaTeX Info: Redefining \\ on input line 3056.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip41
+\RaggedLeftLeftskip=\skip42
+\RaggedRightLeftskip=\skip43
+\CenteringRightskip=\skip44
+\RaggedLeftRightskip=\skip45
+\RaggedRightRightskip=\skip46
+\CenteringParfillskip=\skip47
+\RaggedLeftParfillskip=\skip48
+\RaggedRightParfillskip=\skip49
+\JustifyingParfillskip=\skip50
+\CenteringParindent=\skip51
+\RaggedLeftParindent=\skip52
+\RaggedRightParindent=\skip53
+\JustifyingParindent=\skip54
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count87
+\rotFPtop=\skip55
+\rotFPbot=\skip56
+\rot@float@box=\box27
+\rot@mess@toks=\toks16
+)
+\draftskip=\count88
+\c@section=\count89
+\c@subsection=\count90
+\c@subsubsection=\count91
+\c@paragraph=\count92
+\c@subparagraph=\count93
+\c@figure=\count94
+\c@table=\count95
+\abovecaptionskip=\skip57
+\belowcaptionskip=\skip58
+\c@appendnum=\count96
+\bibindent=\dimen109
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count97
+\bibleftmargin=\skip59
+\bibindent=\skip60
+\bibparsep=\skip61
+\bibitemsep=\skip62
+\biblabelsep=\skip63
+))
+(./trackchanges.sty
+Package: trackchanges 2009/04/22 v0.7.0 TrackChanges file 
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count98
+\calc@Bcount=\count99
+\calc@Adimen=\dimen110
+\calc@Bdimen=\dimen111
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count100
+\calc@Cskip=\skip66
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks17
+\SOUL@lasttoken=\toks18
+\SOUL@cmds=\toks19
+\SOUL@buffer=\toks20
+\SOUL@token=\toks21
+\SOUL@spaceskip=\skip67
+\SOUL@ttwidth=\dimen112
+\SOUL@uldp=\dimen113
+\SOUL@ulht=\dimen114
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2015/07/22 v1.0h Raise limit of unprocessed floats (HMM)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 36
+(morefloats)             (i.e. 18 more floats).
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+)
+\c@userid=\count101
+\c@changenumber=\count102
+\c@storefootnote=\count103
+\c@numeditors=\count104
+\c@maxeditors=\count105
+\TC@ignores=\toks22
+\TC@emptyignores=\toks23
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./Dunn-Sigouin_etal_2020_GRL_submit_v3.aux)
+\openout1 = `Dunn-Sigouin_etal_2020_GRL_submit_v3.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count106
+\scratchdimen=\dimen115
+\scratchbox=\box28
+\nofMPsegments=\count107
+\nofMParguments=\count108
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count109
+\MPscratchDim=\dimen116
+\MPnumerator=\count110
+\makeMPintoPDFobject=\count111
+\everyMPtoPDFconversion=\toks25
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 78.
+\c@maskedRefs=\count112
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 115.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 115.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 123.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 123.
+
+Overfull \hbox (18.57126pt too wide) in paragraph at lines 154--155
+[]\OT1/cmr/m/n/10 Arctic mois-ture trans-port is dom-i-nated by tran-sient plan
+-e-tary waves in aqua-planet 
+ []
+
+
+Overfull \hbox (19.23788pt too wide) in paragraph at lines 156--157
+[]\OT1/cmr/m/n/10 Tropical sea-surface tem-per-a-ture anoma-lies af-fect Arc-ti
+c mois-ture trans-port mostly 
+ []
+
+
+Overfull \hbox (2.84901pt too wide) in paragraph at lines 158--159
+[]\OT1/cmr/m/n/10 Localized trop-i-cal per-tur-ba-tions al-ter Arc-tic mois-tur
+e trans-port more than uni- 
+ []
+
+[1{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (25.099pt too wide) in paragraph at lines 189--190
+[]\OT1/cmr/m/n/10 Arctic mois-ture trans-port is dom-i-nated by planetary-scale
+ waves in re-anal-y-sis . Plan- 
+ []
+
+
+Overfull \hbox (11.07115pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 e-tary waves are in-flu-enced by lo-cal-ized Sea-Surface Tem-pe
+r-a-ture (SST) fea-tures such as 
+ []
+
+
+Overfull \hbox (3.40459pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 the trop-i-cal warm pool. Here, an aqua-planet model is used to
+ clar-ify the link be-tween 
+ []
+
+
+Overfull \hbox (15.51576pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 trop-i-cal SST anoma-lies and  Arc-tic mois-ture trans-port. In
+ a zon-ally uni-form  setup with 
+ []
+
+
+Overfull \hbox (3.68236pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 no cli-ma-to-log-i-cal east-west gra-di-ents, Arc-tic mois-ture
+ trans-port is dom-i-nated by tran- 
+ []
+
+
+Overfull \hbox (39.82129pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 sient plan-e-tary waves, as in re-anal-y-sis. Warm-ing trop-i-c
+al SSTs by heat-ing the ocean strength- 
+ []
+
+
+Overfull \hbox (6.18237pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 ens Arc-tic mois-ture trans-port, me-di-ated mostly by changes 
+in wa-ter va-por rather than 
+ []
+
+
+Overfull \hbox (4.21011pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 ed-dies. This strength-en-ing oc-curs  whether the trop-i-cal w
+arm-ing is zon-ally uni-form or 
+ []
+
+
+Overfull \hbox (25.82124pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 lo-cal-ized. Cool-ing trop-i-cal SSTs weak-ens Arc-tic mois-tur
+e trans-port; how-ever, un-like warm- 
+ []
+
+
+Overfull \hbox (18.59908pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 ing, the pat-tern mat-ters, with lo-cal-ized cool-ing pro-duc-i
+ng stronger trans-port changes ow- 
+ []
+
+
+Overfull \hbox (20.2657pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 ing to non-linear feed-backs in the sur-face en-ergy bud-get. T
+hus, the sim-u-la-tions show that 
+ []
+
+
+Overfull \hbox (0.18239pt too wide) in paragraph at lines 189--190
+\OT1/cmr/m/n/10 lo-cal-ized trop-i-cal SST anoma-lies  in-flu-ence Arc-tic mois
+-ture trans-port dif-fer-ently than 
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 196.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <10.5> not available
+(Font)              size <10.95> substituted on input line 196.
+
+
+Overfull \hbox (15.96013pt too wide) in paragraph at lines 198--199
+[]\OT1/cmr/m/n/10 Northward trans-port of wa-ter va-por strongly in-flu-ences A
+rc-tic cli-mate. Most of the 
+ []
+
+
+Overfull \hbox (31.26567pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 trans-port is ac-com-plished by at-mo-spheric waves with large 
+east-west scale ex-tend-ing around 
+ []
+
+
+Overfull \hbox (8.29329pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 the earth. These waves can be gen-er-ated by warm ocean wa-ters
+ in the west-ern trop-i-cal 
+ []
+
+
+Overfull \hbox (5.8767pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 Pa-cific. Here, a sim-pli-fied cli-mate model with an ocean cov
+-ered sur-face is used to clar- 
+ []
+
+
+Overfull \hbox (11.51569pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 ify the pro-cesses link-ing the trop-i-cal ocean and Arc-tic mo
+is-ture trans-port. Arc-tic trans- 
+ []
+
+
+Overfull \hbox (9.0157pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 port in the model is ac-com-plished by waves that are sim-i-lar
+ to ob-ser-va-tions, sug-gest-ing 
+ []
+
+
+Overfull \hbox (37.07132pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 it is a use-ful tool. Warm-ing the trop-i-cal ocean strength-en
+s Arc-tic trans-port sim-i-larly whether 
+ []
+
+
+Overfull \hbox (1.26567pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 the warm-ing pat-tern is con-cen-trated in a spe-cific lo-ca-ti
+on or spread out equally at all 
+ []
+
+
+Overfull \hbox (21.01575pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 lon-gi-tudes. The strength-en-ing re-sults mostly from an in-cr
+ease in wa-ter va-por aris-ing from 
+ []
+
+
+Overfull \hbox (0.73788pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 an in-crease in the hold-ing ca-pac-ity of the at-mo-sphere at 
+warmer tem-per-a-tures. Cool- 
+ []
+
+
+Overfull \hbox (22.62685pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 ing the trop-i-cal ocean weak-ens Arc-tic trans-port but, un-li
+ke warm-ing, cool-ing con-cen-trated 
+ []
+
+
+Overfull \hbox (3.84901pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 in a spe-cific lo-ca-tion weak-ens the trans-port more than if 
+it is spread out equally at all 
+ []
+
+
+Overfull \hbox (6.57121pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 lon-gi-tudes. The dif-fer-ent re-sponses arise be-cause ocean t
+em-per-a-tures ad-just dif-fer-ently 
+ []
+
+
+Overfull \hbox (1.87682pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 to warm-ing ver-sus cool-ing. Thus, lo-cal-ized cool-ing of tro
+p-i-cal ocean tem-per-a-tures ap- 
+ []
+
+
+Overfull \hbox (3.46004pt too wide) in paragraph at lines 198--199
+\OT1/cmr/m/n/10 pears to be a spe-cial case in terms of its in-flu-ence on mois
+-ture trans-port into the Arc- 
+ []
+
+
+Overfull \hbox (3.09892pt too wide) in paragraph at lines 232--233
+[]\OT1/cmr/m/n/10 Poleward at-mo-spheric mois-ture trans-port ex-erts a strong 
+in-flu-ence on Arc-tic cli- 
+ []
+
+
+Overfull \hbox (6.71017pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 Kap-sch et al.[], 2013; H.-S. Park et al.[], 2015; Ser-reze & B
+arry, 2014; Vihma et al.[], 2016; 
+ []
+
+
+Overfull \hbox (13.87688pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 Woods & Ca-ballero, 2016; Jo-hans-son et al.[], 2017; Liu et al
+.[], 2018). This mois-ture trans- 
+ []
+
+
+Overfull \hbox (10.32114pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 port is ac-com-plished by at-mo-spheric waves, of which the pla
+netary-scale waves are crit- 
+ []
+
+
+Overfull \hbox (9.6129pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 i-cal for Arc-tic sur-face im-pacts []Baggett & Lee, 2015; Gra-
+versen & Burtu, 2016; Heiska- 
+ []
+
+
+Overfull \hbox (11.93242pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 nen et al.[], 2020; Lee et al.[], 2019; Pa-pritz & Dunn-Sigouin
+, 2020). Plan-e-tary wave trains 
+ []
+
+
+Overfull \hbox (21.76564pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 are strongly af-fected by lo-cal-ized sea-surface tem-per-a-tur
+e (SST) fea-tures such as the trop- 
+ []
+
+
+Overfull \hbox (12.59904pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 i-cal warm pool, with sig-nals reach-ing well into the mid-lat-
+i-tudes []Horel & Wal-lace, 1981; 
+ []
+
+
+Overfull \hbox (13.21007pt too wide) in paragraph at lines 232--233
+\OT1/cmr/m/n/10 Palmer & Mans-field, 1984; Ding et al.[], 2014). How-ever, how 
+the zonal (east-west) struc- 
+ []
+
+
+Overfull \hbox (0.7101pt too wide) in paragraph at lines 234--235
+[]\OT1/cmr/m/n/10 Localized warm-ing of trop-i-cal SSTs could en-hance Arc-tic 
+mois-ture trans-port by 
+ []
+
+
+Overfull \hbox (5.7379pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 ex-cit-ing plan-e-tary waves. For ex-am-ple, anoma-lously warm 
+SSTs in the west-ern Pa-cific 
+ []
+
+
+Overfull \hbox (0.37686pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 warm pool trig-ger at-mo-spheric con-vec-tion, re-sult-ing in l
+o-cal-ized di-a-batic heat-ing and 
+ []
+
+
+Overfull \hbox (32.73799pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 di-ver-gent flow aloft, which in turn gen-er-ates pole-ward pro
+p-a-gat-ing plan-e-tary waves []Hoskins 
+ []
+
+
+Overfull \hbox (5.54362pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 & Karoly, 1981; Sardesh-mukh & Hoskins, 1988; Bransta-tor, 2014
+). Plan-e-tary waves of 
+ []
+
+
+Overfull \hbox (1.76572pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 this kind are quasi-stationary and have been sug-gested to tran
+s-port mois-ture into the 
+ []
+
+
+Overfull \hbox (5.84898pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 Arc-tic ei-ther di-rectly or in-di-rectly by in-ter-act-ing wit
+h tran-sient ed-dies []Lee, 2014; Yoo 
+ []
+
+
+Overfull \hbox (14.33519pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 et al.[], 2012; Baggett & Lee, 2015; Baggett et al.[], 2016; Go
+ss et al.[], 2016; Baggett & Lee, 
+ []
+
+
+Overfull \hbox (5.21014pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 2017; Lee et al.[], 2019; M. Park & Lee, 2019). In-deed, sub-se
+asonal to decadal vari-abil- 
+ []
+
+
+Overfull \hbox (12.37686pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 ity in warm pool con-vec-tion has been linked to cor-re-spond-i
+ng vari-abil-ity in Arc-tic mois- 
+ []
+
+
+Overfull \hbox (11.93239pt too wide) in paragraph at lines 234--235
+\OT1/cmr/m/n/10 ture trans-port and sur-face tem-per-a-ture in ob-ser-va-tions 
+[]Lee et al.[], 2011; Lee, 2012; Yoo 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Overfull \hbox (4.9324pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 that rely on changes in the zonal-mean state rather than in qua
+si-stationary plan-e-tary 
+ []
+
+
+Overfull \hbox (2.04341pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 waves. For ex-am-ple, lo-cal-ized SST anoma-lies in the west-er
+n Pa-cific pro-duce a zon-ally 
+ []
+
+
+Overfull \hbox (4.5435pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 uni-form at-mo-spheric tem-per-a-ture change in the trop-ics []
+Yulaeva & Wal-lace, 1994; So- 
+ []
+
+
+Overfull \hbox (8.04353pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 bel et al.[], 2001) that can mod-ify tran-sient ed-dies and the
+ir as-so-ci-ated en-ergy trans-port 
+ []
+
+
+Overfull \hbox (12.90468pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 in the ex-tra-t-rop-ics []Robinson, 2002; Sea-ger et al.[], 200
+3; L'Heureux & Thomp-son, 2006). 
+ []
+
+
+Overfull \hbox (20.4879pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 Trop-i-cal at-mo-spheric tem-per-a-tures are also tightly cou-p
+led to wa-ter va-por []Wentz & Sch- 
+ []
+
+
+Overfull \hbox (14.1268pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 a-bel, 2000; Tren-berth et al.[], 2005), so changes in Arc-tic 
+mois-ture trans-port might be ex- 
+ []
+
+
+Overfull \hbox (4.43236pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 pected to scale with the Clausius-Clapeyron re-la-tion-ship, in
+ a man-ner sim-i-lar to other 
+ []
+
+
+Overfull \hbox (44.90463pt too wide) in paragraph at lines 237--238
+\OT1/cmr/m/n/10 as-pects of the cli-mate sys-tem un-der global warm-ing []Held 
+& So-den, 2006; Lorenz & DeWeaver, 
+ []
+
+
+Overfull \hbox (3.65459pt too wide) in paragraph at lines 240--241
+[]\OT1/cmr/m/n/10 In ad-di-tion to how mois-ture trans-port changes driven by t
+rop-i-cal SST anoma-lies 
+ []
+
+
+Overfull \hbox (7.09895pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 are com-mu-ni-cated to the Arc-tic, we must also con-sider that
+ the ef-fects of cool-ing (e.g., 
+ []
+
+
+Overfull \hbox (0.46022pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 La Ni~na) may dif-fer from those of warm-ing (e.g., El Ni~no). 
+For ex-am-ple, cool-ing pro- 
+ []
+
+
+Overfull \hbox (10.98788pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 duces a larger SST change per unit en-ergy per-tur-ba-tion be-c
+ause, un-like heat-ing, the re- 
+ []
+
+
+Overfull \hbox (15.6269pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 sult-ing en-ergy im-bal-ance is not ef-fi-ciently off-set by ev
+ap-o-ra-tion []Shin et al.[], 2017). Cool- 
+ []
+
+
+Overfull \hbox (18.76578pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 ing also in-duces changes in sur-face cloud ra-dia-tive forc-in
+g that am-plify the cool-ing []Shaw 
+ []
+
+
+Overfull \hbox (7.3213pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 et al.[], 2015). Thus, cool-ing could more ef-fi-ciently per-tu
+rb trop-i-cal SSTs than warm-ing, 
+ []
+
+
+Overfull \hbox (2.79344pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 lead-ing to a more pro-nounced change in the zonal-mean state a
+nd a greater change in 
+ []
+
+
+Overfull \hbox (10.59901pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 Arc-tic mois-ture trans-port. More-over, trop-i-cal con-vec-tio
+n de-pends sen-si-tively on the ab- 
+ []
+
+
+Overfull \hbox (2.3768pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 so-lute value of SST, so equal but op-po-site SST anoma-lies co
+uld ex-cite dif-fer-ent quasi- 
+ []
+
+
+Overfull \hbox (1.62682pt too wide) in paragraph at lines 240--241
+\OT1/cmr/m/n/10 stationary plan-e-tary waves []Hoerling et al.[], 1997) that re
+-sult in dif-fer-ent Arc-tic mois- 
+ []
+
+
+Overfull \hbox (18.32118pt too wide) in paragraph at lines 244--245
+[]\OT1/cmr/m/n/10 To elu-ci-date how trop-i-cal SSTs af-fect mois-ture trans-po
+rt into the Arc-tic, and which 
+ []
+
+
+Overfull \hbox (4.59901pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 struc-tural fea-tures of SST anomaly pat-terns are most im-por-
+tant, we carry out a se-ries 
+ []
+
+
+Overfull \hbox (10.2102pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 of per-tur-ba-tion ex-per-i-ments us-ing a slab-ocean aqua-plan
+et model. The model al-lows us 
+ []
+
+
+Overfull \hbox (10.43236pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 to clar-ify the pro-cesses gov-ern-ing ob-served zon-ally in-te
+-grated Arc-tic mois-ture trans-port 
+ []
+
+
+Overfull \hbox (3.48785pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 (sec-tion 3.1), as well as the role of lo-cal-ized trop-i-cal S
+ST anoma-lies in-duced by warm- 
+ []
+
+
+Overfull \hbox (16.90466pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 ing or cool-ing in driv-ing changes in mois-ture trans-port (Se
+c-tion 3.2). This, to our knowl- 
+ []
+
+
+Overfull \hbox (8.90456pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 edge, pro-vides a novel testbed for iso-lat-ing the role of tro
+p-i-cal SSTs on Arc-tic mois-ture 
+ []
+
+
+Overfull \hbox (1.46016pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 trans-port me-di-ated by plan-e-tary waves. The re-sults sug-ge
+st that an on-go-ing fo-cus on 
+ []
+
+
+Overfull \hbox (7.71011pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 tran-sient, high-latitude, plan-e-tary waves is war-ranted, and
+ show a con-crete but lim-ited 
+ []
+
+
+Overfull \hbox (18.57129pt too wide) in paragraph at lines 244--245
+\OT1/cmr/m/n/10 in-flu-ence of lo-cal-ized SST anoma-lies on zon-ally in-te-gra
+ted Arc-tic mois-ture trans-port aris- 
+ []
+
+
+Overfull \hbox (0.68227pt too wide) in paragraph at lines 251--252
+[]\OT1/cmr/m/n/10 The Na-tional Cen-ter for At-mo-spheric Re-search Com-mu-nity
+ At-mo-spheric Model 
+ []
+
+
+Overfull \hbox (4.23784pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 ver-sion 5 []NCAR CAM5, Neale et al.[], 2010) is used. The at-m
+o-sphere has a hor-i-zon-tal 
+ []
+
+
+Overfull \hbox (0.23796pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 res-o-lu-tion of 1$[]$ lat-i-tude by 1.25$[]$ lon-gi-tude, has 
+30 ver-ti-cal hybrid-sigma lev-els and is 
+ []
+
+
+Overfull \hbox (4.26575pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 cou-pled to a slab ocean. The con-trol sim-u-la-tion is forced 
+with zon-ally uni-form bound- 
+ []
+
+
+Overfull \hbox (28.48799pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 ary con-di-tions fol-low-ing the Trop-i-cal Rain belts with an 
+An-nual Cy-cle and con-ti-nent Model 
+ []
+
+
+Overfull \hbox (16.82129pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 In-ter-com-par-i-son Project pro-to-col []TRACMIP, Voigt et al.
+[], 2016). Specif-i-cally, the model 
+ []
+
+
+Overfull \hbox (3.96013pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 is forced with present-day sea-sonal and di-ur-nal cy-cles of i
+n-so-la-tion and con-cen-tra-tions 
+ []
+
+
+Overfull \hbox (10.12668pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 of green-house gases, the slab ocean depth is set to 30 m, sea 
+ice is turned off (SSTs can 
+ []
+
+
+Overfull \hbox (4.51572pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 drop be-low freez-ing), zonal-mean ozone is pre-scribed fol-low
+-ing []Blackburn and Hoskins 
+ []
+
+
+Overfull \hbox (19.98795pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 (2013)[],[] and a time-independent ocean heat flux con-ver-genc
+e (termed the ``Q-flux") is pre- 
+ []
+
+
+Overfull \hbox (1.98796pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 scribed to ap-prox-i-mate the ob-served cli-ma-to-log-i-cal zon
+al-mean []equation 3 and Ta-ble 
+ []
+
+
+Overfull \hbox (7.37682pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 2 in Voigt et al.[], 2016). The con-trol sim-u-la-tion is spun 
+up for 10 years and the next 40 
+ []
+
+
+Overfull \hbox (0.37674pt too wide) in paragraph at lines 251--252
+\OT1/cmr/m/n/10 years are used for anal-y-sis. The con-trol and other sim-u-la-
+tions are com-pared to ERA- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+Overfull \hbox (5.59897pt too wide) in paragraph at lines 254--255
+[]\OT1/cmr/m/n/10 We in-ves-ti-gate the im-pact of trop-i-cal SSTs on mois-ture
+ trans-port into the Arc-tic 
+ []
+
+
+Overfull \hbox (0.68239pt too wide) in paragraph at lines 254--255
+\OT1/cmr/m/n/10 by im-pos-ing time-independent Q-flux per-tur-ba-tions in the t
+rop-ics, which gen-er-ate di- 
+ []
+
+
+Overfull \hbox (0.76576pt too wide) in paragraph at lines 254--255
+\OT1/cmr/m/n/10 a-batic heat-ing anoma-lies and ex-tra-t-rop-i-cal cir-cu-la-ti
+on re-sponses. Ex-per-i-ment L+ im- 
+ []
+
+
+Overfull \hbox (7.12679pt too wide) in paragraph at lines 254--255
+\OT1/cmr/m/n/10 poses a lo-cal-ized Q-flux per-tur-ba-tion cen-tred on the equa
+-tor with a spa-tial scale of ap- 
+ []
+
+
+Overfull \hbox (4.87692pt too wide) in paragraph at lines 254--255
+\OT1/cmr/m/n/10 prox-i-mately 90$[]$ lon-gi-tude and 30$[]$ lat-i-tude (Fig. 1a
+). The ex-act pat-tern is taken from 
+ []
+
+
+Overfull \hbox (2.44624pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 ^^U$ \OT1/cmr/m/n/10 de-notes lon-gi-tu
+de, $\OML/cmm/m/it/10 ^^^$ \OT1/cmr/m/n/10 de-notes lat-i-tude, and the spa-tia
+l ex-tent of the per-tur-ba- 
+ []
+
+
+Overfull \hbox (12.18222pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 re-sem-ble the annual-mean east-west dif-fer-ence in ocean heat
+ flux con-ver-gence across the 
+ []
+
+
+Overfull \hbox (3.79343pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 equa-to-rial Pa-cific in re-anal-y-sis. We have con-firmed that
+ the re-sults are sim-i-lar for dif- 
+ []
+
+
+Overfull \hbox (12.73404pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 fer-ent choices of the spa-tial scale $\OML/cmm/m/it/10 ^^U[]$ 
+\OT1/cmr/m/n/10 and that the re-sult-ing Arc-tic sta-tion-ary waves have 
+ []
+
+
+Overfull \hbox (2.93245pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 com-pa-ra-ble am-pli-tude to re-anal-y-sis (Fig. S1 and S2). Ex
+-per-i-ment U+ im-poses a zon- 
+ []
+
+
+Overfull \hbox (3.26581pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 ally uni-form Q-flux per-tur-ba-tion with the same to-tal heat 
+in-put as in ex-per-i-ment L+, 
+ []
+
+
+Overfull \hbox (10.71019pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 but dis-tributed equally over all lon-gi-tudes (Fig. 1c). Thus,
+ ex-per-i-ments U+ and L+ in- 
+ []
+
+
+Overfull \hbox (6.68245pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 put iden-ti-cal amounts of glob-ally in-te-grated en-ergy into 
+the slab ocean. Ad-di-tional ex- 
+ []
+
+
+Overfull \hbox (1.57117pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 per-i-ments are per-formed where the sign of the Q-flux per-tur
+-ba-tion is re-versed (L-, U- 
+ []
+
+
+Overfull \hbox (3.95311pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 ), the mag-ni-tude is dou-bled (2L+, 2U+), and a zonal wavenum-
+ber $\OML/cmm/m/it/10 k \OT1/cmr/m/n/10 = 1$ pat-tern with 
+ []
+
+
+Overfull \hbox (4.35257pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 am-pli-tude 75 Wm$[]$ is im-posed []L$[]$, equa-tion 6 in  Neal
+e & Hoskins, 2000). The last 
+ []
+
+
+Overfull \hbox (10.43237pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 ex-per-i-ment in-puts zero glob-ally in-te-grated en-ergy into 
+the slab ocean. The ex-per-i-ments 
+ []
+
+
+Overfull \hbox (4.68237pt too wide) in paragraph at lines 266--268
+\OT1/cmr/m/n/10 are branched from the last day of the con-trol sim-u-la-tion, s
+pun up for 10 years and the 
+ []
+
+
+Overfull \hbox (20.73792pt too wide) in paragraph at lines 271--272
+[]\OT1/cmr/m/n/10 Figure 1[] shows annual-mean SST anoma-lies rel-a-tive to the
+ con-trol sim-u-la-tion (shad- 
+ []
+
+
+Overfull \hbox (13.54355pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 ing) re-sult-ing from the Q-flux per-tur-ba-tions (pur-ple con-
+tours). The SST warm-ing (cool- 
+ []
+
+
+Overfull \hbox (14.738pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 ing) gen-er-ally fol-lows the pat-tern of heat in-put (out-put)
+ by the Q-flux forc-ing. How-ever, 
+ []
+
+
+Overfull \hbox (1.9324pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 lo-cal-ized heat re-moval (Fig. 1[]b) pro-duces stronger SST an
+oma-lies than lo-cal-ized heat 
+ []
+
+
+Overfull \hbox (2.68242pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 in-put (Fig. 1[]a), and dom-i-nates the re-sponse when both for
+c-ings are present (Fig. 1[]f). 
+ []
+
+
+Overfull \hbox (6.43233pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 This asym-me-try arises due to non-linear feed-backs in the sur
+-face en-ergy bud-get []Shaw 
+ []
+
+
+Overfull \hbox (10.62686pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 et al.[], 2015; Shin et al.[], 2017) and be-comes ap-par-ent wh
+en the Q-flux per-tur-ba-tions are 
+ []
+
+
+Overfull \hbox (15.93245pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 larger (com-pare Fig. 1[]a,b and c,d). This asym-me-try will be
+ use-ful for un-der-stand-ing the 
+ []
+
+
+Overfull \hbox (18.48781pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 Arc-tic mois-ture trans-port re-sponses dis-cussed later. The t
+rop-i-cal SST re-sponses are com- 
+ []
+
+
+Overfull \hbox (8.7101pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 mu-ni-cated to the trop-i-cal at-mo-sphere via changes in con-v
+ec-tion, re-flected in changes in 
+ []
+
+
+Overfull \hbox (7.23798pt too wide) in paragraph at lines 271--272
+\OT1/cmr/m/n/10 ver-ti-cally in-te-grated di-a-batic heat-ing (Fig. S3). This, 
+in turn, re-sults in the gen-er-a-tion 
+ []
+
+
+Overfull \hbox (10.62675pt too wide) in paragraph at lines 275--276
+[]\OT1/cmr/m/n/10 These ex-per-i-ments do not in-clude cli-ma-to-log-i-cal zona
+l asym-me-tries from the pres- 
+ []
+
+
+Overfull \hbox (7.43234pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 ence of land and orog-ra-phy and so the re-sult-ing changes in 
+Arc-tic plan-e-tary waves and 
+ []
+
+
+Overfull \hbox (23.46019pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 mois-ture trans-port should be in-ter-preted with cer-tain cave
+ats in mind. For ex-am-ple, zonal 
+ []
+
+
+Overfull \hbox (11.76582pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 asym-me-tries can mod-ify the ex-tra-t-rop-i-cal waveg-uide and
+ pole-ward prop-a-ga-tion of plan- 
+ []
+
+
+Overfull \hbox (12.0713pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 e-tary waves []Simmons et al.[], 1983; Ting & Sardesh-mukh, 199
+3). More-over, a given SST 
+ []
+
+
+Overfull \hbox (4.51573pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 anomaly can gen-er-ate dif-fer-ent plan-e-tary waves de-pend-in
+g on its lo-ca-tion rel-a-tive to a 
+ []
+
+
+Overfull \hbox (0.84901pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 zon-ally vary-ing back-ground state. This is be-cause the plan-
+e-tary wave source de-pends 
+ []
+
+
+Overfull \hbox (5.12679pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 on trop-i-cal con-vec-tion, which is sen-si-tive to the ab-so-l
+ute value of SST []Hoerling et al.[], 
+ []
+
+
+Overfull \hbox (38.51584pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 1997) and the lo-ca-tion of this con-vec-tion rel-a-tive to the
+ cli-ma-to-log-i-cal waveg-uide []Branstator, 
+ []
+
+
+Overfull \hbox (3.7934pt too wide) in paragraph at lines 275--276
+\OT1/cmr/m/n/10 2014). Nev-er-the-less, these ex-per-i-ments rep-re-sent a firs
+t step in un-der-stand-ing the link 
+ []
+
+
+Overfull \hbox (4.76572pt too wide) in paragraph at lines 280--281
+[]\OT1/cmr/m/n/10 We di-ag-nose daily ver-ti-cally and zon-ally in-te-grated ed
+dy mois-ture trans-port as a 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Overfull \hbox (8.51558pt too wide) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 where an-gled brack-ets de-note the ver-ti-cal in-te-gral, squa
+re brack-ets de-note the zonal in- 
+ []
+
+
+Overfull \hbox (3.34901pt too wide) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 te-gral and stars de-note de-vi-a-tions from the zonal in-te-gr
+al. The pro-ce-dure de-com-poses 
+ []
+
+
+Overfull \hbox (1.61998pt too wide) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 zonal wavenum-ber com-po-nents $\OML/cmm/m/it/10 k$ \OT1/cmr/m/
+n/10 be-fore mul-ti-ply-ing and in-te-grat-ing both zon-ally and 
+ []
+
+
+Overfull \hbox (10.80734pt too wide) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 ver-ti-cally. The de-com-po-si-tion is per-formed us-ing the ma
+ss flux $\OML/cmm/m/it/10 M$ \OT1/cmr/m/n/10 in-stead of the merid- 
+ []
+
+
+Overfull \hbox (4.57246pt too wide) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 ional wind $\OML/cmm/m/it/10 v$ \OT1/cmr/m/n/10 to in-cor-po-ra
+te the change in pres-sure per change in model level $[]$ which 
+ []
+
+
+Overfull \hbox (9.79463pt too wide) in paragraph at lines 286--288
+\OT1/cmr/m/n/10 varies in space and time. The eddy mois-ture trans-port $\OMS/c
+msy/m/n/10 h\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 v[]q[]\OT1/cmr/m/n/10 ]\OMS/cmsy/
+m/n/10 i$ \OT1/cmr/m/n/10 is ob-tained by sum-ming 
+ []
+
+
+Overfull \hbox (9.23787pt too wide) in paragraph at lines 295--296
+[]\OT1/cmr/m/n/10 We clar-ify how trop-i-cal SSTs im-pact Arc-tic mois-ture tra
+ns-port by fur-ther de-com- 
+ []
+
+
+Overfull \hbox (15.43236pt too wide) in paragraph at lines 298--300
+\OT1/cmr/m/n/10 where over-bars de-note the time-mean and primes de-note de-vi-
+a-tions from the time-mean. 
+ []
+
+
+Overfull \hbox (22.51103pt too wide) in paragraph at lines 298--300
+\OT1/cmr/m/n/10 Tran-sient eddy mois-ture trans-port $\OMS/cmsy/m/n/10 h\OT1/cm
+r/m/n/10 [\OML/cmm/m/it/10 v[]q[]\OT1/cmr/m/n/10 ]\OMS/cmsy/m/n/10 i$ \OT1/cmr/
+m/n/10 is cal-cu-lated as a resid-ual of the eddy $\OMS/cmsy/m/n/10 h\OT1/cmr/m
+/n/10 [\OML/cmm/m/it/10 v[]q[]\OT1/cmr/m/n/10 ]\OMS/cmsy/m/n/10 i$ 
+ []
+
+
+Overfull \hbox (5.82242pt too wide) in paragraph at lines 298--300
+\OT1/cmr/m/n/10 and sta-tion-ary eddy trans-port $\OMS/cmsy/m/n/10 h\OT1/cmr/m/
+n/10 [[][][][]]\OMS/cmsy/m/n/10 i$\OT1/cmr/m/n/10 , where the lat-ter is cal-cu
+-lated us-ing cli-ma-to-log- 
+ []
+
+
+Overfull \hbox (10.1436pt too wide) in paragraph at lines 306--306
+[]\OT1/cmr/bx/n/10 Comparing Arc-tic mois-ture trans-port in re-anal-y-sis and 
+the con-trol 
+ []
+
+
+Overfull \hbox (22.54352pt too wide) in paragraph at lines 309--310
+[]\OT1/cmr/m/n/10 Annual-mean zon-ally in-te-grated mois-ture trans-port in the
+ con-trol sim-u-la-tion is qual- 
+ []
+
+
+Overfull \hbox (7.62683pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 i-ta-tively sim-i-lar to re-anal-y-sis in the Arc-tic but dif-f
+ers at lower lat-i-tudes (Fig. 2[]a,b). In 
+ []
+
+
+Overfull \hbox (10.01573pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 the Arc-tic, the trans-port in the con-trol sim-u-la-tion and r
+e-anal-y-sis is dom-i-nated by tran- 
+ []
+
+
+Overfull \hbox (10.57126pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 for re-anal-y-sis in Fig. 1e,f of  Lee et al.[], 2019). At lowe
+r lat-i-tudes, mois-ture trans-port in 
+ []
+
+
+Overfull \hbox (0.48085pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 the con-trol sim-u-la-tion is dom-i-nated by syn-op-tic waves (
+$\OML/cmm/m/it/10 k > \OT1/cmr/m/n/10 3$) whereas both syn-op-tic 
+ []
+
+
+Overfull \hbox (13.43231pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 and plan-e-tary waves are im-por-tant in re-anal-y-sis. The dif
+-fer-ences at lower lat-i-tudes arise 
+ []
+
+
+Overfull \hbox (1.37682pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 due to a lack of sta-tion-ary plan-e-tary waves in the con-trol
+ sim-u-la-tion. Mois-ture trans- 
+ []
+
+
+Overfull \hbox (2.54347pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 port is gen-er-ally larger in the con-trol sim-u-la-tion than r
+e-anal-y-sis ex-cept in the trop-ics, 
+ []
+
+
+Overfull \hbox (10.32129pt too wide) in paragraph at lines 309--310
+\OT1/cmr/m/n/10 likely due to more avail-able mois-ture in the ocean[]-[]covere
+d aqua-planet and/or more vig- 
+ []
+
+
+Overfull \hbox (8.07117pt too wide) in paragraph at lines 314--315
+[]\OT1/cmr/m/n/10 Poleward mois-ture trans-port into the Arc-tic in the con-tro
+l sim-u-la-tion causes near 
+ []
+
+
+Overfull \hbox (5.84904pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 sur-face warm-ing sim-i-lar to re-anal-y-sis (Fig. 2[]c,d). Lag
+ged cor-re-la-tions be-tween anoma- 
+ []
+
+
+Overfull \hbox (18.27965pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 lous mois-ture trans-port at 70$[]$N and zonal-mean tem-per-a-t
+ure at 850 hPa show that pole- 
+ []
+
+
+Overfull \hbox (6.12672pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 ward trans-port events are pre-ceded by weak cold anoma-lies fo
+l-lowed by stronger warm 
+ []
+
+
+Overfull \hbox (4.9601pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 anoma-lies re-sult-ing in net warm-ing over the po-lar cap. The
+ Arc-tic warm-ing is pri-mar- 
+ []
+
+
+Overfull \hbox (12.15463pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 ily as-so-ci-ated with mois-ture trans-port by plan-e-tary wave
+s (Fig. S4) and con-sis-tent with 
+ []
+
+
+Overfull \hbox (3.26566pt too wide) in paragraph at lines 314--315
+\OT1/cmr/m/n/10 en-hanced down-ward long-wave ra-di-a-tion as-so-ci-ated with a
+ stronger wa-ter va-por green- 
+ []
+
+
+Overfull \hbox (4.29343pt too wide) in paragraph at lines 317--318
+[]\OT1/cmr/m/n/10 Overall, we find that zon-ally in-te-grated Arc-tic mois-ture
+ trans-port and its as-so-ci- 
+ []
+
+
+Overfull \hbox (25.40468pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/10 ated warm-ing im-pacts are dom-i-nated by tran-sient plan-e-tar
+y waves in an aqua-planet model 
+ []
+
+
+Overfull \hbox (8.54353pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/10 driven by zon-ally uni-form bound-ary con-di-tions. The re-sult
+s re-veal the key role of tran- 
+ []
+
+
+Overfull \hbox (8.93239pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/10 sient, high-latitude, plan-e-tary waves in de-ter-min-ing Arc-t
+ic cli-mate in a highly ide-al-ized 
+ []
+
+
+Overfull \hbox (25.9463pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/10 setup, as in re-al-ity []Baggett & Lee, 2015; Gra-versen & Burt
+u, 2016; Heiska-nen et al.[], 2020; 
+ []
+
+
+Overfull \hbox (19.87685pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/10 Lee et al.[], 2019; Pa-pritz & Dunn-Sigouin, 2020). Thus, we co
+n-sider the aqua-planet model 
+ []
+
+
+Overfull \hbox (1.29353pt too wide) in paragraph at lines 317--318
+\OT1/cmr/m/n/10 a use-ful frame-work for in-ves-ti-gat-ing how trop-i-cal SST p
+er-tur-ba-tions af-fect zon-ally in- 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5]
+Overfull \hbox (25.65456pt too wide) in paragraph at lines 324--325
+[]\OT1/cmr/m/n/10 Warming trop-i-cal SSTs by heat-ing the trop-i-cal ocean give
+s rise to strength-ened mois- 
+ []
+
+
+Overfull \hbox (16.15471pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ture trans-port into the Arc-tic. But no-tably, in our sim-u-la
+-tions, zon-ally uni-form and zon- 
+ []
+
+
+Overfull \hbox (0.96013pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ally lo-cal-ized heat-ing re-sult in a sim-i-lar strength-en-in
+g. Fig-ure 3[]a,b shows the per-cent 
+ []
+
+
+Overfull \hbox (6.04353pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 change (shad-ing) from the con-trol sim-u-la-tion (grey con-tou
+rs) of annual-averaged mois- 
+ []
+
+
+Overfull \hbox (18.68246pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ture trans-port in ex-per-i-ments L+ (lo-cal-ized warm-ing) and
+ U+ (uni-form warm-ing). Mois- 
+ []
+
+
+Overfull \hbox (7.73787pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ture trans-port is gen-er-ally stronger at all lat-i-tudes, wit
+h larger in-creases in the trop-ics. 
+ []
+
+
+Overfull \hbox (8.37689pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 As-sum-ing a purely ther-mo-dy-namic re-sponse fol-low-ing the 
+Clausius-Clapeyron re-la-tion- 
+ []
+
+
+Overfull \hbox (9.15457pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ship, larger trop-i-cal changes can arise ei-ther from a uni-fo
+rm tem-per-a-ture change, yield- 
+ []
+
+
+Overfull \hbox (22.59903pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ing greater wa-ter vapour in-creases for warmer back-ground tem
+-per-a-tures, or from a change 
+ []
+
+
+Overfull \hbox (8.26564pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 in the gra-di-ent of tem-per-a-ture, yield-ing greater wa-ter v
+apour in-creases where the heat- 
+ []
+
+
+Overfull \hbox (19.82127pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 ing is ap-plied. For the same to-tal en-ergy in-put, both ex-pe
+r-i-ments show a 15-20$%$ in-crease 
+ []
+
+
+Overfull \hbox (19.96014pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 in Arc-tic mois-ture trans-port. The in-crease is pri-mar-ily d
+ue to stronger trans-port by tran- 
+ []
+
+
+Overfull \hbox (3.7656pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 sient ed-dies (com-pare black and grey cir-cles in Fig. 3[]c), 
+even in ex-per-i-ment L+ where 
+ []
+
+
+Overfull \hbox (7.79349pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 the heat-ing cre-ates lo-cally warm SSTs rem-i-nis-cent of the 
+trop-i-cal warm pool (Fig. 1[]a). 
+ []
+
+
+Overfull \hbox (10.04347pt too wide) in paragraph at lines 324--325
+\OT1/cmr/m/n/10 Sim-i-lar but larger in-creases in Arc-tic mois-ture trans-port
+ oc-cur when dou-bling the mag- 
+ []
+
+
+Overfull \hbox (11.90451pt too wide) in paragraph at lines 330--331
+[]\OT1/cmr/m/n/10 The stronger eddy trans-port is con-sis-tent with changes in 
+wa-ter va-por rather than 
+ []
+
+
+Overfull \hbox (20.26552pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 changes in the ed-dies them-selves (Fig. 3[]c). Blue cir-cles s
+how the per-cent change in lower- 
+ []
+
+
+Overfull \hbox (21.82121pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 tropospheric wa-ter va-por while red cir-cles show changes aris
+-ing from eddy strength, quan- 
+ []
+
+
+Overfull \hbox (0.18237pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 ti-fied us-ing the zonal-mean root-mean-square of merid-ional w
+ind at 850 hPa. The in- 
+ []
+
+
+Overfull \hbox (6.65445pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 crease in Arc-tic mois-ture trans-port is con-sis-tent with an 
+in-crease in lower-tropospheric 
+ []
+
+
+Overfull \hbox (37.48793pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 wa-ter va-por (com-pare black and blue cir-cles for all ex-per-
+i-ments), in agree-ment with Clausius- 
+ []
+
+
+Overfull \hbox (22.19632pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 Clapeyron scal-ing (green cir-cles) ob-tained by mul-ti-ply-ing
+ the tem-per-a-ture change at 70$[]$N 
+ []
+
+
+Overfull \hbox (46.5714pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 and 850 hPa in each ex-per-i-ment with 7.3$%$/K cal-cu-lated fr
+om the con-trol sim-u-la-tion []equations 
+ []
+
+
+Overfull \hbox (29.738pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 1 and 2 in Held & So-den, 2006). In-creases in to-tal (sta-tion
+-ary plus tran-sient) eddy strength 
+ []
+
+
+Overfull \hbox (3.01561pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 are small in com-par-i-son (red cir-cles), as are in-creases in
+ tran-sient eddy strength (pink 
+ []
+
+
+Overfull \hbox (11.5157pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 cir-cles). These re-sults point to ther-mo-dy-namic rather than
+ dy-namic pro-cesses dom-i-nat- 
+ []
+
+
+Overfull \hbox (11.1546pt too wide) in paragraph at lines 330--331
+\OT1/cmr/m/n/10 ing the re-sponse of zon-ally in-te-grated Arc-tic mois-ture tr
+ans-port to trop-i-cal SST per-tur- 
+ []
+
+
+Overfull \hbox (3.12672pt too wide) in paragraph at lines 336--337
+[]\OT1/cmr/m/n/10 Cooling trop-i-cal SSTs weak-ens Arc-tic mois-ture trans-port
+; how-ever, un-like in the 
+ []
+
+
+Overfull \hbox (1.01569pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 warm-ing case, it mat-ters whether the per-tur-ba-tion is zon-a
+lly lo-cal-ized or zon-ally uni- 
+ []
+
+
+Overfull \hbox (8.96025pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 form (Fig. 3[]c). For the same zon-ally in-te-grated en-ergy ou
+t-put, the Q-flux per-tur-ba-tion 
+ []
+
+
+Overfull \hbox (6.87683pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 in ex-per-i-ment U- (uni-form cool-ing) re-duces Arc-tic mois-t
+ure trans-port by 15-20$%$ while 
+ []
+
+
+Overfull \hbox (16.96016pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 that in ex-per-i-ment L- (lo-cal-ized cool-ing) re-duces the tr
+ans-port by 40-45$%$ (black cir-cles). 
+ []
+
+
+Overfull \hbox (4.82121pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 The asym-me-try is con-sis-tent with non-linearity in the sur-f
+ace en-ergy bud-get re-sponse, 
+ []
+
+
+Overfull \hbox (10.09903pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 which is larger for the strong lo-cal-ized cool-ing in ex-per-i
+-ment L- (Fig. 1[]b,d). In-deed, al- 
+ []
+
+
+Overfull \hbox (2.8768pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 though not shown here, the sim-u-la-tions ex-hibit dif-fer-ent 
+re-sponses in sur-face evap-o-ra- 
+ []
+
+
+Overfull \hbox (11.65462pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 tion and cloud ra-dia-tive forc-ing, lead-ing to dif-fer-ent SS
+T re-sponses. Thus, re-duc-tions in 
+ []
+
+
+Overfull \hbox (9.54346pt too wide) in paragraph at lines 336--337
+\OT1/cmr/m/n/10 Arc-tic mois-ture trans-port due to trop-i-cal cool-ing are mos
+t likely sen-si-tive to dif-fer-ences 
+ []
+
+
+Overfull \hbox (3.71016pt too wide) in paragraph at lines 343--344
+[]\OT1/cmr/m/n/10 While ther-mo-dy-namic changes in Arc-tic mois-ture trans-por
+t are most im-por-tant, 
+ []
+
+
+Overfull \hbox (12.51581pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 they can be op-posed by dy-namic changes. Ap-ply-ing a Q-flux p
+er-tur-ba-tion with heat in- 
+ []
+
+
+Overfull \hbox (2.67201pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 put over half the trop-i-cal band and heat re-moval over the ot
+her half (ex-per-i-ment $\OML/cmm/m/it/10 L[]$\OT1/cmr/m/n/10 , 
+ []
+
+
+Overfull \hbox (13.03645pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 where $\OML/cmm/m/it/10 k\OT1/cmr/m/n/10 1$ in-di-cates a zonal
+ wavenumber-1 pat-tern) re-sults in mostly colder SSTs (ex-per- 
+ []
+
+
+Overfull \hbox (26.97766pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 i-ment L$[]$, Fig. 1[]f), and cor-re-spond-ingly, re-duced wa-t
+er va-por and a ther-mo-dy-namic weak- 
+ []
+
+
+Overfull \hbox (12.68234pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 en-ing of Arc-tic mois-ture trans-port by tran-sient ed-dies (b
+lue and grey cir-cles in Fig. 3[]c). 
+ []
+
+
+Overfull \hbox (8.59903pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 How-ever, the weak-en-ing of to-tal eddy mois-ture trans-port i
+s rel-a-tively smaller (com-pare 
+ []
+
+
+Overfull \hbox (9.71025pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 black and grey cir-cles in Fig. 3[]c), im-ply-ing a dy-namic st
+rength-en-ing in sta-tion-ary eddy 
+ []
+
+
+Overfull \hbox (22.59909pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 mois-ture trans-port, likely aris-ing from plan-e-tary waves ge
+n-er-ated in the trop-ics. Strength- 
+ []
+
+
+Overfull \hbox (0.62677pt too wide) in paragraph at lines 343--344
+\OT1/cmr/m/n/10 ened sta-tion-ary ed-dies also partly com-pen-sate weak-ened tr
+an-sient ed-dies, re-sult-ing in 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (16.12683pt too wide) in paragraph at lines 346--347
+[]\OT1/cmr/m/n/10 In sum-mary, these aqua-planet sim-u-la-tions show that lo-ca
+l-ized trop-i-cal SST anoma- 
+ []
+
+
+Overfull \hbox (6.90463pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 lies can in-flu-ence Arc-tic mois-ture trans-port more than zon
+-ally uni-form SST anoma-lies, 
+ []
+
+
+Overfull \hbox (18.73799pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 but only in the case of cool-ing rel-a-tive to a zon-ally uni-f
+orm back-ground state. The trans- 
+ []
+
+
+Overfull \hbox (16.01572pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 port re-sponses are con-sis-tent with ther-mo-dy-namic changes 
+in wa-ter va-por re-sult-ing from 
+ []
+
+
+Overfull \hbox (21.79353pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 zonal-mean at-mo-spheric tem-per-a-ture changes. Dy-namic chang
+es in sta-tion-ary eddy trans- 
+ []
+
+
+Overfull \hbox (13.15459pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 port, likely in-duced by plan-e-tary waves ex-cited in the trop
+-ics, can partly en-hance or op- 
+ []
+
+
+Overfull \hbox (6.23793pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 pose these ther-mo-dy-namic changes, de-pend-ing on the ex-act 
+na-ture of the trop-i-cal per- 
+ []
+
+
+Overfull \hbox (19.18236pt too wide) in paragraph at lines 346--347
+\OT1/cmr/m/n/10 tur-ba-tion. Sim-i-lar re-sults are also found for the ex-tende
+d Novem-ber to March win-ter sea- 
+ []
+
+
+Overfull \hbox (24.79344pt too wide) in paragraph at lines 354--355
+[]\OT1/cmr/m/n/10 This study clar-i-fies how trop-i-cal SST anoma-lies af-fect 
+zon-ally in-te-grated Arc-tic mois- 
+ []
+
+
+Overfull \hbox (4.0713pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/10 ture trans-port in an aqua-planet model. We find that warm-ing 
+trop-i-cal SSTs strength- 
+ []
+
+
+Overfull \hbox (11.04343pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/10 ens Arc-tic mois-ture trans-port, and the re-sponse is sim-i-la
+r whether the warm-ing pat-tern 
+ []
+
+
+Overfull \hbox (15.82127pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/10 is zon-ally uni-form or lo-cal-ized (Fig. 3[]a,b). How-ever, lo
+-cal-ized cool-ing weak-ens the trans- 
+ []
+
+
+Overfull \hbox (28.04358pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/10 port more than zon-ally uni-form cool-ing (Fig. 3[]c). The dif-
+fer-ences arise due to non-linearity 
+ []
+
+
+Overfull \hbox (28.54352pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/10 in the trop-i-cal sur-face en-ergy bud-get re-sponse to warm-in
+g ver-sus cool-ing (Fig. 1[]a,b). Thus, 
+ []
+
+
+Overfull \hbox (1.32123pt too wide) in paragraph at lines 354--355
+\OT1/cmr/m/n/10 the sim-u-la-tions show that lo-cal-ized trop-i-cal SST anoma-l
+ies  in-flu-ence Arc-tic mois-ture 
+ []
+
+
+Overfull \hbox (3.73775pt too wide) in paragraph at lines 358--359
+[]\OT1/cmr/m/n/10 The re-sults help clar-ify the pro-cesses by which the trop-i
+cs in-flu-ence zon-ally in-te- 
+ []
+
+
+Overfull \hbox (9.5435pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 grated mois-ture trans-port into the Arc-tic. Ther-mo-dy-namic 
+pro-cesses in-volv-ing changes 
+ []
+
+
+Overfull \hbox (8.90466pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 in zonal-mean at-mo-spheric tem-per-a-ture and wa-ter va-por ar
+e most im-por-tant (Fig. 3[]c), 
+ []
+
+
+Overfull \hbox (14.62675pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 as for re-sponses to cli-mate change []Held & So-den, 2006; Lor
+enz & DeWeaver, 2007; Sea- 
+ []
+
+
+Overfull \hbox (9.09904pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 ger et al.[], 2010). Dy-namic pro-cesses in-volv-ing eddy chang
+es []Robinson, 2002; Sea-ger et 
+ []
+
+
+Overfull \hbox (15.37685pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 al.[], 2003; Lee et al.[], 2011; Baggett & Lee, 2015) play a se
+c-ondary role, act-ing to en-hance 
+ []
+
+
+Overfull \hbox (9.68239pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 or op-pose ther-mo-dy-namic pro-cesses, de-pend-ing on the ex-a
+ct na-ture of the trop-i-cal per- 
+ []
+
+
+Overfull \hbox (12.51564pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 tur-ba-tion. The rel-a-tive im-por-tance of these pro-cesses in
+ the real world is dif-fi-cult to ad- 
+ []
+
+
+Overfull \hbox (5.40456pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 dress di-rectly us-ing our re-sults, how-ever, be-cause of the 
+sim-pli-fied model con-fig-u-ra-tion 
+ []
+
+
+Overfull \hbox (19.37689pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 (in par-tic-u-lar, the lack of sta-tion-ary waves in our con-tr
+ol sim-u-la-tion). More-over, dy-namic 
+ []
+
+
+Overfull \hbox (18.98798pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 pro-cesses could be more im-por-tant for lo-cal rather than zon
+-ally in-te-grated trans-port sim- 
+ []
+
+
+Overfull \hbox (9.46019pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 i-lar to cli-mate change []Seager et al.[], 2014; Simp-son et a
+l.[], 2016; Wills et al.[], 2016), and 
+ []
+
+
+Overfull \hbox (6.46019pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 strong non-linearity in the sur-face en-ergy bud-get []Shaw et 
+al.[], 2015; Shin et al.[], 2017), 
+ []
+
+
+Overfull \hbox (0.18242pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 of the kind shown in re-sponse to SST cool-ing (Fig. 1[]b,d), c
+ould be model de-pen-dent. 
+ []
+
+
+Overfull \hbox (6.849pt too wide) in paragraph at lines 358--359
+\OT1/cmr/m/n/10 Fur-ther work is needed to in-ves-ti-gate the pro-cesses link-i
+ng trop-i-cal SST anoma-lies and 
+ []
+
+
+Overfull \hbox (5.8767pt too wide) in paragraph at lines 362--363
+[]\OT1/cmr/m/n/10 The re-sults re-veal the key role of tran-sient, high-latitud
+e, plan-e-tary waves in me- 
+ []
+
+
+Overfull \hbox (3.62688pt too wide) in paragraph at lines 362--363
+\OT1/cmr/m/n/10 di-at-ing zon-ally in-te-grated Arc-tic mois-ture trans-port in
+ an ide-al-ized model (Fig. 2[]), as 
+ []
+
+
+Overfull \hbox (2.6407pt too wide) in paragraph at lines 362--363
+\OT1/cmr/m/n/10 in re-al-ity []Baggett & Lee, 2015; Gra-versen & Burtu, 2016; H
+eiska-nen et al.[], 2020; Lee 
+ []
+
+
+Overfull \hbox (19.65472pt too wide) in paragraph at lines 362--363
+\OT1/cmr/m/n/10 et al.[], 2019; Pa-pritz & Dunn-Sigouin, 2020). Ob-ser-va-tions
+ fur-ther sug-gest that planetary- 
+ []
+
+
+Overfull \hbox (14.32117pt too wide) in paragraph at lines 362--363
+\OT1/cmr/m/n/10 scale block-ing pat-terns help steer moisture-laden syn-op-tic 
+weather sys-tems into the Arc- 
+ []
+
+
+Overfull \hbox (12.96024pt too wide) in paragraph at lines 362--363
+\OT1/cmr/m/n/10 tic []Woods et al.[], 2013; Pa-pritz & Dunn-Sigouin, 2020; Rug-
+gieri et al.[], 2020). Us-ing our 
+ []
+
+
+Overfull \hbox (4.48788pt too wide) in paragraph at lines 362--363
+\OT1/cmr/m/n/10 ide-al-ized model to re-late weather sys-tems with Arc-tic mois
+-ture trans-port could clar-ify 
+ []
+
+
+Overfull \hbox (1.84904pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 The au-thors thank Tim Woollings for help-ful dis-cus-sions, In
+go Bethke for help in set- 
+ []
+
+
+Overfull \hbox (16.04347pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 ting up the model and Julius Busecke for ad-vice on how to pub-
+lish re-pro-ducible re-search 
+ []
+
+
+Overfull \hbox (19.57126pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 and or-ga-nize the github repos-i-tory as-so-ci-ated with this 
+project. This work was sup-ported 
+ []
+
+
+Overfull \hbox (18.5713pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 by the Re-search Coun-cil of Nor-way grants Dy-na-mite 255027, 
+Nansen Legacy 276730, and 
+ []
+
+
+Overfull \hbox (5.93245pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 vis-it-ing fel-low-ship 287930. Sigma2 and the Bjerk-nes Pre-di
+c-tion Unit are ac-knowl-edged 
+ []
+
+
+Overfull \hbox (2.65471pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 for pro-vid-ing com-put-ing and stor-age fa-cil-i-ties un-der p
+rojects NS9625K and NS9039K. 
+ []
+
+
+Overfull \hbox (13.32118pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 ECMWF and NCAR are ac-knowl-edged for pro-vid-ing free ac-cess 
+to ERA-Interim re-anal- 
+ []
+
+
+Overfull \hbox (8.45662pt too wide) in paragraph at lines 554--556
+\OT1/cmr/m/n/10 y-sis data ($\OT1/cmtt/m/n/10 https :// www [] .ecmwf [] .int /
+ en / forecasts / datasets / reanalysis [] -datasets / 
+ []
+
+
+Overfull \hbox (30.23488pt too wide) in paragraph at lines 554--556
+\OT1/cmtt/m/n/10 era [] -interim$\OT1/cmr/m/n/10 ) and the CAM5 model ($\OT1/cm
+tt/m/n/10 http :// www [] .cesm [] .ucar [] .edu / models / cesm2 / release [] 
+
+ []
+
+
+Overfull \hbox (23.19771pt too wide) in paragraph at lines 554--556
+[]\OT1/cmtt/m/n/10 download [] .html$\OT1/cmr/m/n/10 ). Ma-te-ri-als to re-pro-
+duce the re-sults of this pa-per are pro-vided on Github 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7]
+[8]
+<./fig_01.pdf, id=46, 722.7pt x 722.7pt>
+File: ./fig_01.pdf Graphic file (type pdf)
+<use ./fig_01.pdf>
+Package pdftex.def Info: ./fig_01.pdf  used on input line 561.
+(pdftex.def)             Requested size: 433.62334pt x 433.62334pt.
+
+Overfull \hbox (36.13835pt too wide) in paragraph at lines 561--562
+[] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 562.
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+[]\OT1/cmr/bx/n/9 Figure  1. \OT1/cmr/m/n/9 Annual-mean trop-i-cal SST anoma-li
+es de-fined rel-a-tive to the con-trol sim-u-la-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/m/n/9 for ex-per-i-ments L+, L-, U+, U-, 2L+, L$[]$ and 2U+ (see sec-t
+ion 2 for de-scrip-tion of the ex-per-i-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/m/n/9 ments). Pur-ple con-tours de-note Q-flux per-tur-ba-tions im-pos
+ed in each ex-per-i-ment[],[] with con-tour
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/m/n/9 in-ter-val 30 Wm$[]$ and solid lines de-not-ing pos-i-tive per-t
+ur-ba-tions, and dashed lines de-not-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/m/n/9 neg-a-tive per-tur-ba-tions. Sta-tis-ti-cal sig-nif-i-cance is c
+al-cu-lated at the 95 $%$ level us-ing a two-tailed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/m/n/9 stu-dent's $\OML/cmm/m/it/9 t$\OT1/cmr/m/n/9 -test and hatch-ing
+ in-di-cates anoma-lies that are not sta-tis-ti-cally sig-nif-i-cant. Note the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+\OT1/cmr/m/n/9 dif-fer-ent color bar range for ex-per-i-ment L- and that the fi
+elds in all ex-per-i-ments are phase shifted
+ []
+
+<./fig_02.pdf, id=48, 794.97pt x 578.16pt>
+File: ./fig_02.pdf Graphic file (type pdf)
+<use ./fig_02.pdf>
+Package pdftex.def Info: ./fig_02.pdf  used on input line 567.
+(pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+[]\OT1/cmr/bx/n/9 Figure  2. \OT1/cmr/m/n/9 (a,b) Annual-mean ver-ti-cally and 
+zon-ally in-te-grated eddy mois-ture trans-port as a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+\OT1/cmr/m/n/9 func-tion of zonal wavenum-ber and lat-i-tude in (a) re-anal-y-s
+is and (b) the con-trol sim-u-la-tion. The
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+\OT1/cmr/m/n/9 trans-port is mul-ti-plied by the la-tent heat of va-por-iza-tio
+n to give PW units. (c,d) Lag cor-re-la-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+\OT1/cmr/m/n/9 tion be-tween daily anoma-lies in zonal-mean tem-per-a-ture at 8
+50 hPa and zon-ally and ver-ti-cally
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+\OT1/cmr/m/n/9 in-te-grated eddy mois-ture trans-port at 70$[]$N as a func-tion
+ of lat-i-tude. Anoma-lies are de-fined as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+\OT1/cmr/m/n/9 de-vi-a-tions from the daily-mean sea-sonal cy-cle. Sta-tis-ti-c
+al sig-nif-i-cance is cal-cu-lated at the 99$%$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+\OT1/cmr/m/n/9 level with 5000 boot-strapped time se-ries fol-low-ing the Monte
+-Carlo ap-proach of []Ebisuzaki (1997).
+ []
+
+<./fig_03.pdf, id=50, 794.97pt x 578.16pt>
+File: ./fig_03.pdf Graphic file (type pdf)
+<use ./fig_03.pdf>
+Package pdftex.def Info: ./fig_03.pdf  used on input line 574.
+(pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+[]\OT1/cmr/bx/n/9 Figure  3. \OT1/cmr/m/n/9 (a,b) Annual-mean ver-ti-cally and 
+zon-ally in-te-grated eddy mois-ture trans-port as a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 func-tion of zonal wavenum-ber and lat-i-tude for the con-trol s
+im-u-la-tion (con-tours) and per-cent-age
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 change from con-trol for the L+ (lo-cal warm-ing) and U+ (uni-fo
+rm warm-ing) ex-per-i-ments (shad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 ing). Con-trol con-tour in-ter-val is 0.04 PW start-ing at 0.01 
+PW and the per-cent change is shown
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 where the cli-ma-tol-ogy is greater than 0.01 PW. Sta-tis-ti-cal
+ sig-nif-i-cance is cal-cu-lated at the 95 $%$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 level us-ing a two-tailed stu-dent's $\OML/cmm/m/it/9 t$\OT1/cmr
+/m/n/9 -test and per-cent changes that are not sta-tis-ti-cally sig-nif-i-cant
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 are hatched. (c) Per-cent-age change from con-trol of the fol-lo
+w-ing annual-mean vari-ables at 70$[]$N
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 for all warm-ing (+) and cool-ing (-) ex-per-i-ments: (black) ve
+r-ti-cally and zon-ally in-te-grated eddy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 mois-ture trans-port, (gray) ver-ti-cally and zon-ally in-te-gra
+ted tran-sient eddy mois-ture trans-port,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 (blue) zonal-mean spe-cific hu-mid-ity at 850 hPa, (red) zonal-m
+ean root-mean-square eddy merid-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 ional wind at 850 hPa and (pink) zonal-mean root-mean square tra
+n-sient eddy merid-ional wind
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 at 850 hPa. Green cir-cles show the mois-ture trans-port change 
+es-ti-mated from Clausius-Clapeyron
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 scal-ing: zonal-mean tem-per-a-ture change in each ex-per-i-ment
+ mul-ti-plied by 7.3 $%\OML/cmm/m/it/9 =$\OT1/cmr/m/n/9 K cal-cu-lated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 from the con-trol sim-u-la-tion []equations 1 and 2 in Held & So
+-den, 2006). Er-ror bars de-note the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+\OT1/cmr/m/n/9 95$%$ inter-annual un-cer-tainty range. The ex-per-i-ments are o
+r-dered by in-creas-ing tem-per-a-ture
+ []
+
+(./Dunn-Sigouin_etal_2020_GRL_submit_v3.bbl
+Underfull \hbox (badness 2865) in paragraph at lines 16--30
+\OT1/cmr/m/n/10 of avail-able po-ten-tial en-ergy and the role of the planetary
+-scale waves.  \OT1/cmr/m/it/10 J. At- 
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 44--58
+\OT1/cmr/m/n/10 tic warm-ing dur-ing planetary-scale and synoptic-scale wave li
+fe cy-cles.  \OT1/cmr/m/it/10 J. At- 
+ []
+
+
+Underfull \hbox (badness 5681) in paragraph at lines 72--88
+[]\OT1/cmr/m/n/10 Baggett, C., Lee, S., & Feld-stein, S.  (2016).  An in-ves-ti
+-ga-tion of the pres-ence of 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--88
+\OT1/cmr/m/n/10 at-mo-spheric rivers over the north pa-cific dur-ing planetary-
+scale wave life cy-cles 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--173
+[]\OT1/cmr/m/n/10 Dee, D., Up-pala, S., Sim-mons, A., Berris-ford, P., Poli, P.
+, Kobayashi, S., ... oth-ers 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--173
+\OT1/cmr/m/n/10 (2011).  The ERA-Interim re-anal-y-sis: Con-fig-u-ra-tion and p
+er-for-mance of the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--203
+[]\OT1/cmr/m/n/10 Ding, Q., Wal-lace, J. M., Bat-tisti, D. S., Steig, E. J., Ga
+l-lant, A. J., Kim, H.-J., 
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 185--203
+\OT1/cmr/m/n/10 & Geng, L.  (2014).  Trop-i-cal forc-ing of the re-cent rapid a
+rc-tic warm-ing in 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--234
+[]\OT1/cmr/m/n/10 Doyle, J. G., Lesins, G., Thack-ray, C. P., Perro, C., Nott, 
+G. J., Duck, T. J., ... 
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 301--315
+[]\OT1/cmr/m/n/10 Goss, M., Feld-stein, S. B., & Lee, S.  (2016).  Sta-tion-ary
+ wave in-ter-fer-ence and its 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--315
+\OT1/cmr/m/n/10 re-la-tion to trop-i-cal con-vec-tion and arc-tic warm-ing.  \O
+T1/cmr/m/it/10 J. Cli-mate\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 29\OT1/cmr/m/n/10 
+(4), 1369- 
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 329--342
+\OT1/cmr/m/n/10 ergy trans-port of at-mo-spheric plan-e-tary waves.  \OT1/cmr/m
+/it/10 Quart. J. Roy. Me-teor. Soc.\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--376
+\OT1/cmr/m/n/10 ing wavelet and fourier per-spec-tives on the de-com-po-si-tion
+ of merid-ional en-ergy 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 357--376
+\OT1/cmr/m/n/10 trans-port into syn-op-tic and plan-e-tary com-po-nents.  \OT1/
+cmr/m/it/10 Quart. J. Roy. Me-teor. 
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 390--403
+[]\OT1/cmr/m/n/10 Held, I. M., & So-den, B. J.  (2006).  Ro-bust re-sponses of 
+the hy-dro-log-i-cal cy-cle to 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--517
+[]\OT1/cmr/m/n/10 Johansson, E., Dev-asthale, A., Tjern-str^^?om, M., Ek-man, A
+. M., & L'Ecuyer, T. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--517
+\OT1/cmr/m/n/10 (2017).  Re-sponse of the lower tro-po-sphere to mois-ture in-t
+ru-sions into the 
+ []
+
+
+Underfull \hbox (badness 2197) in paragraph at lines 531--545
+\OT1/cmr/m/n/10 en-ergy trans-port and the con-trol of arc-tic sum-mer sea-ice 
+ex-tent.  \OT1/cmr/m/it/10 Na-ture Cli- 
+ []
+
+
+Underfull \vbox (badness 1642) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 611--629
+[]\OT1/cmr/m/n/10 Lee, S., Gong, T., John-son, N., Feld-stein, S. B., & Pol-lar
+d, D.  (2011).  On the 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--629
+\OT1/cmr/m/n/10 pos-si-ble link be-tween trop-i-cal con-vec-tion and the north-
+ern hemi-sphere arc-tic 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--629
+\OT1/cmr/m/n/10 sur-face air tem-per-a-ture change be-tween 1958 and 2001.  \OT
+1/cmr/m/it/10 J. Cli-mate\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 24\OT1/cmr/m/n/10 (
+16), 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--659
+\OT1/cmr/m/n/10 and trop-i-cal tem-per-a-ture bi-ases in cmip5 sim-u-la-tions a
+nd its fin-ger-print in 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 673--687
+\OT1/cmr/m/n/10 el ni~no--southern os-cil-la-tion and the ex-tra-t-rop-i-cal zo
+nal-mean cir-cu-la-tion.  \OT1/cmr/m/it/10 J. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 756--774
+[]\OT1/cmr/m/n/10 Neale, R. B., Chen, C.-C., Get-tel-man, A., Lau-ritzen, P. H.
+, Park, S., Williamson, 
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 756--774
+\OT1/cmr/m/n/10 D. L., ... oth-ers  (2010).  De-scrip-tion of the NCAR com-mu-n
+ity at-mo-sphere 
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 788--803
+[]\OT1/cmr/m/n/10 Neale, R. B., & Hoskins, B. J.  (2000).  A stan-dard test for
+ agcms in-clud-ing their 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 817--831
+\OT1/cmr/m/n/10 tion mod-els to sea-surface tem-per-a-ture anoma-lies in the tr
+op-i-cal east and west 
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 877--893
+\OT1/cmr/m/n/10 arc-tic win-ter in-frared ra-di-a-tion on early sum-mer sea ice
+.  \OT1/cmr/m/it/10 J. Cli-mate\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 28\OT1/cmr/m/
+n/10 (15), 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--975
+[]\OT1/cmr/m/n/10 Ruggieri, P., Alvarez-Castro, M. C., Athanasiadis, P., Bel-lu
+cci, A., Ma-te-ria, S., 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--975
+\OT1/cmr/m/n/10 & Gualdi, S.  (2020).  North at-lantic cir-cu-la-tion regimes a
+nd heat trans- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 956--975
+\OT1/cmr/m/n/10 port by syn-op-tic ed-dies.  \OT1/cmr/m/it/10 J. Cli-mate\OT1/c
+mr/m/n/10 , \OT1/cmr/m/it/10 33\OT1/cmr/m/n/10 (11), 4769-4785.  doi: $10 [] .1
+175 / 
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 989--1002
+[]\OT1/cmr/m/n/10 Sardeshmukh, P. D., & Hoskins, B. J.  (1988).  The gen-er-a-t
+ion of global ro-ta-tional 
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 1018--1034
+[]\OT1/cmr/m/n/10 Seager, R., Harnik, N., Kush-nir, Y., Robin-son, W., & Miller
+, J.  (2003).  Mech-a- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1034
+\OT1/cmr/m/n/10 nisms of hemi-spher-i-cally sym-met-ric cli-mate vari-abil-ity.
+  \OT1/cmr/m/it/10 J. Cli-mate\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 16\OT1/cmr/m/n
+/10 (18), 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1046--1065
+[]\OT1/cmr/m/n/10 Seager, R., Liu, H., Hen-der-son, N., Simp-son, I., Kel-ley, 
+C., Shaw, T., ... Ting, 
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 1046--1065
+\OT1/cmr/m/n/10 M.  (2014).  Causes of in-creas-ing arid-i-fi-ca-tion of the me
+diter-ranean re-gion in 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1079--1094
+\OT1/cmr/m/n/10 a-nisms for large-scale changes in the hy-dro-log-i-cal cy-cle 
+in re-sponse to global 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 1164--1179
+\OT1/cmr/m/n/10 lat-i-tu-di-nal po-si-tion of sta-tion-ary waves and to high-la
+titudes sur-face warm-ing. 
+ []
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 1193--1210
+[]\OT1/cmr/m/n/10 Simmons, A. J., Wal-lace, J. M., & Bransta-tor, G. W.  (1983)
+.  Barotropic Wave 
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 1225--1240
+[]\OT1/cmr/m/n/10 Simpson, I. R., Sea-ger, R., Ting, M., & Shaw, T. A.  (2016).
+  Causes of change in 
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 1225--1240
+\OT1/cmr/m/n/10 north-ern hemi-sphere win-ter merid-ional winds and re-gional h
+y-dro-cli-mate.  \OT1/cmr/m/it/10 Na- 
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 1254--1268
+\OT1/cmr/m/n/10 ap-prox-i-ma-tion and bal-anced trop-i-cal mois-ture waves.  \O
+T1/cmr/m/it/10 J. At-mos. Sci.\OT1/cmr/m/n/10 , \OT1/cmr/m/it/10 58\OT1/cmr/m/n
+/10 (23), 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1338--1357
+[]\OT1/cmr/m/n/10 Vihma, T., Screen, J., Tjern-str^^?om, M., New-ton, B., Zhang
+, X., Popova, V., ... 
+ []
+
+
+Underfull \hbox (badness 2326) in paragraph at lines 1338--1357
+\OT1/cmr/m/n/10 pro-cesses, past and fu-ture changes, and their im-pacts.  \OT1
+/cmr/m/it/10 J. Geo-phys. Res. Bio.\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1369--1391
+[]\OT1/cmr/m/n/10 Voigt, A., Bi-a-sutti, M., Scheff, J., Bader, J., Bor-doni, S
+., Co-dron, F., ... Var- 
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 1369--1391
+\OT1/cmr/m/n/10 a con-ti-nent model In-ter-com-par-i-son project: TRACMIP.  \OT
+1/cmr/m/it/10 Jour-nal of Ad-vances 
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 1462--1477
+\OT1/cmr/m/n/10 Warm-ing and Sea Ice De-cline.  \OT1/cmr/m/it/10 J. Cli-mate\OT
+1/cmr/m/n/10 , \OT1/cmr/m/it/10 29\OT1/cmr/m/n/10 (12), 4473-4485.  doi: $10 []
+ .1175 / 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1491--1507
+\OT1/cmr/m/n/10 with mois-ture in-tru-sions into the arc-tic dur-ing win-ter.  
+\OT1/cmr/m/it/10 Geo-phys. Res. Lett.\OT1/cmr/m/n/10 , 
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 1521--1537
+[]\OT1/cmr/m/n/10 Yoo, C., Feld-stein, S., & Lee, S.  (2011).  The im-pact of t
+he madden-julian os-cil- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1521--1537
+\OT1/cmr/m/n/10 la-tion trend on the arc-tic am-pli-fi-ca-tion of sur-face air 
+tem-per-a-ture dur-ing the 
+ []
+
+) [11] [12 <./fig_01.pdf>] [13 <./fig_02.pdf>] [14 <./fig_03.pdf>]
+(./Dunn-Sigouin_etal_2020_GRL_submit_v3.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.45pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3463 strings out of 492649
+ 48406 string characters out of 6129622
+ 135984 words of memory out of 5000000
+ 7282 multiletter control sequences out of 15000+600000
+ 9843 words of font info for 35 fonts, out of 8000000 for 9000
+ 1147 hyphenation exceptions out of 8191
+ 43i,11n,37p,1868b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
+sr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+xlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
+ve/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+8/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2018/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2018/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2018/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Dunn-Sigouin_etal_2020_GRL_submit_v3.pdf (14 pages, 974856 by
+tes).
+PDF statistics:
+ 335 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 34 words of extra memory for PDF output out of 10000 (max. 10000000)
+

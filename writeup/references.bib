@@ -1,0 +1,783 @@
+%
+% JOURNAL ABBREVIATIONS
+%
+@STRING{AMS 	= "Amer.\ Meteor.\ Soc."}
+@STRING{AGU 	= "Amer.\ Geophys.\ Union"}
+@STRING{AIP 	= "Amer. Inst. Phys."}
+@STRING{ADGEO     = "Adv.\ Geosci."}
+@STRING{AFM       = "Agric.\ For.\ Meteor."}
+@STRING{AM        = "Ann.\ Meteor."}
+@STRING{AN        = "Astrophys.\ Norv."}		% Astrophysica Norvegica
+@STRING{AO        = "Atmos.--Ocean"}			% Atmosphere--Ocean, published by Canadian Meteorological Society (CMOS)
+@STRING{AR        = "Atmos.\ Res."}			% Atmospheric Research
+@STRING{ARFM      = "Annu.\ Rev.\ Fluid Mech."}
+@STRING{AUMET     = "Aust.\ Meteor.\ Mag."}
+@STRING{BAMS      = "Bull.\ Amer.\ Meteor.\ Soc."}
+@STRING{CAP       = "Contrib.\ Atmos.\ Phys."}
+@STRING{CC        = "Climate Change"}      % Climate Change 
+@STRING{CCH       = "Climatic Change"}			% Climatic Change
+@STRING{CDYN      = "Climate Dyn."}
+@STRING{CHAOS     = "Chaos"}
+@STRING{COL       = "Collier's"}
+@STRING{CRS       = "Cont.\ Shelf Res."}
+@STRING{DAO       = "Dyn.\ Atmos.\ Oceans"}
+@STRING{ECO       = "Ecology"}
+@STRING{EI        = "Earth Interact."}
+@STRING{GA        = "Geophysica"}			% Geophysica, published by Geophysical Society of Finland 
+@STRING{GEOMAG    = "Geophys.\ Mag."}
+@STRING{GN        = "Geophys.\ Norv."}			% Geophysica Norvegica
+
+@STRING{GRL       = "Geophys.\ Res.\ Lett."}
+@STRING{GEOINT    = "Geofis.\ Int."}			% Geofisica Internacional (Mexican journal -- vols. 3--5 contained proceedings from a hurricane conference
+@STRING{GEOPUB    = "Geofys.\ Publ."}
+@STRING{GPC       = "Global Planet.\ Change"}
+@STRING{HP        = "Health Phys."}
+@STRING{IAOP      = "Izv.\ Atmos.\ Ocean.\ Phys.\ (Engl.\ Transl.)"}
+@STRING{IJC       = "Int.\ J.\ Climatol."}
+@STRING{JAM       = "J.\ Appl.\ Meteor."}		% renamed to name below in 2006
+@STRING{JAMC      = "J.\ Appl.\ Meteor.\ Climatol."}  	% Journal of Applied Meteorology and Climatology (this journal used to be called the Journal of Applied Meteorology before 2006)
+@STRING{JAS       = "J.\ Atmos.\ Sci."}
+@STRING{JAOT      = "J.\ Atmos.\ Oceanic Technol."}
+@STRING{JCAM      = "J.\ Climate Appl.\ Meteor."}	% from 1983--87, now JAMC
+@STRING{JCLI      = "J.\ Climate"}
+@STRING{JCR       = "J.\ Coastal Res."}
+@STRING{JFM       = "J.\ Fluid\ Mech."}
+@STRING{JEM       = "J.\ Eng.\ Math."}			% Journal of Engineering Mathematics
+@STRING{JGR       = "J.\ Geophys.\ Res."}
+@STRING{JHM       = "J.\ Hydrometeor."}
+@STRING{JMS       = "J.\ Mar.\ Syst."}
+@STRING{JM        = "J.\ Meteor."}
+@STRING{JMR       = "J.\ Mar.\ Res."}
+@STRING{JMSJ      = "J.\ Meteor.\ Soc.\ Japan"}
+@STRING{JPO       = "J.\ Phys.\ Oceanogr."}
+@STRING{JOCEAN    = "J.\ Oceanogr."}			% Journal of Oceanography
+@STRING{JOSJ      = "J.\ Oceanogr.\ Soc.\ Japan"}
+@STRING{JSE       = "J.\ Struct.\ Eng."}	% Journal of Structural Engineering at ASCE
+@STRING{JTM       = "J.\ Tropical Meteor."}
+@STRING{JWEIA     = "J.\ Wind Eng.\ Ind.\ Aerodyn."}
+@STRING{MA        = "Meteor.\ Appl."}
+@STRING{MAP       = "Meteor.\ Atmos.\ Phys."}
+@STRING{METMON    = "Meteor.\ Monogr."}
+@STRING{METZEIT   = "Meteor.\ Z."}
+@STRING{MWL       = "Mar.\ Wea.\ Log"}
+@STRING{MWR       = "Mon.\ Wea.\ Rev."}
+@STRING{NAT       = "Nature"}
+@STRING{NHR       = "Nat.\ Hazards Rev."}
+@STRING{NWD       = "Natl.\ Weather Dig."}
+@STRING{OA        = "Oceanol. Aeta"}
+@STRING{OCEAN     = "Oceanography"}                	% a quarterly journal of The Oceanography Society
+@STRING{PAG       = "Pure Appl.\ Geophys."}
+@STRING{PF        = "Phys.\ Fluids"}
+@STRING{PHYSD     = "Physica D"}
+@STRING{PMG       = "Pap.\ Meteor.\ Geophys."}	% Papers in Meteorology and Geophysics
+@STRING{PNAS      = "Proc.\ Natl.\ Acad.\ Sci.\ (USA)"}
+@STRING{PRE       = "Phys.\ Rev.\ E"}
+@STRING{PRSA      = "Proc.\ Roy.\ Soc."}
+@STRING{PT        = "Phys.\ Today"}
+@STRING{PTRS      = "Philos.\ Trans.\ Roy.\ Soc.\ London"}
+@STRING{QJRMS     = "Quart.\ J.\ Roy.\ Meteor.\ Soc."}
+@STRING{RGEO      = "Rev. Geophys."}
+@STRING{SCI       = "Science"}
+@STRING{SOLA      = "SOLA"}				% Scientific Online Letters on the Atmosphere
+@STRING{TAGU      = "Eos, Trans.\ Amer.\ Geophys.\ Union"}
+@STRING{TELLUS    = "Tellus"}
+@STRING{TCFD      = "Theor.\ Comput.\ Fluid Dyn."}
+@STRING{WEA       = "Weather"}
+@STRING{WW        = "Weatherwise"}
+@STRING{WF        = "Wea.\ Forecasting"}
+@STRING{WMOB      = "WMO Bull."}
+
+% SAMPLE REFERENCES. Remove these and insert your own reference database.
+
+@book{SerrezeBarry2014,
+  title={The Arctic climate system},
+  author={Serreze, Mark C and Barry, Roger G},
+  year={2014},
+  publisher={Cambridge University Press}
+}
+
+@article{Doyle2011,
+author = {Doyle, J. G. and Lesins, G. and Thackray, C. P. and Perro, C. and Nott, G. J. and Duck, T. J. and Damoah, R. and Drummond, J. R.},
+title = {Water vapor intrusions into the High Arctic during winter},
+journal = {Geophys.\ Res.\ Lett.},
+volume = {38},
+number = {12},
+pages = {},
+keywords = {arctic, lidar, radiation, remote sensing, water vapor},
+doi = {10.1029/2011GL047493},
+year = {2011}
+}
+
+
+@article{Kapsch2013,
+  title={Springtime atmospheric energy transport and the control of Arctic summer sea-ice extent},
+  author={Kapsch, Marie-Luise and Graversen, Rune Grand and Tjernstr{\"o}m, Michael},
+  journal={Nature Climate Change},
+  volume={3},
+  number={8},
+  pages={744-748},
+  year={2013},
+}
+
+
+@article{Park2015,
+  title={The impact of Arctic winter infrared radiation on early summer sea ice},
+  author={Park, Hyo-Seok and Lee, Sukyoung and Kosaka, Yu and Son, Seok-Woo and Kim, Sang-Woo},
+  journal={J.\ Climate},
+  volume={28},
+  number={15},
+  pages={6281-6296},
+  year={2015}
+}
+
+
+@article{Vihma2016,
+  title={The atmospheric role in the Arctic water cycle: A review on processes, past and future changes, and their impacts},
+  author={Vihma, Timo and Screen, James and Tjernstr{\"o}m, Michael and Newton, Brandi and Zhang, Xiangdong and Popova, Valeria and Deser, Clara and Holland, Marika and Prowse, Terry},
+  journal={J.\ Geophys.\ Res.\ Bio.},
+  volume={121},
+  number={3},
+  pages={586-620},
+  year={2016}
+}
+
+
+
+@article{Johansson2017,
+  title={Response of the lower troposphere to moisture intrusions into the Arctic},
+  author={Johansson, Erik and Devasthale, Abhay and Tjernstr{\"o}m, Michael and Ekman, Annica ML and L'Ecuyer, Tristan},
+  journal={Geophys.\ Res.\ Lett.},
+  volume={44},
+  number={5},
+  pages={2527-2536},
+  year={2017},
+}
+
+
+@article{Liu2018,
+  title={Time evolution of the cloud response to moisture intrusions into the Arctic during winter},
+  author={Liu, Yinghui and Key, Jeffrey R and Vavrus, Steve and Woods, Cian},
+  journal={J.\ Climate},
+  volume={31},
+  number={22},
+  pages={9389-9405},
+  year={2018}
+}
+
+
+@article{ShawPaulius2012,
+  title={Tropical and subtropical meridional latent heat transports by disturbances to the zonal mean and their role in the general circulation},
+  author={Shaw, Tiffany A and Pauluis, Olivier},
+  journal={J.\ Atmos.\ Sci.},
+  volume={69},
+  number={6},
+  pages={1872-1889},
+  year={2012}
+}
+
+
+@article{GraversenBurtu2016,
+  title={Arctic amplification enhanced by latent energy transport of atmospheric planetary waves},
+  author={Graversen, Rune G and Burtu, Mattias},
+  journal={Quart.\ J.\ Roy.\ Meteor.\ Soc.},
+  volume={142},
+  number={698},
+  pages={2046-2054},
+  year={2016}
+}
+
+@article{Heiskanen2020,
+author = {Heiskanen, Tuomas and Graversen, Rune Grand and Rydsaa, Johanne Hope and Isachsen, Pål Erik},
+title = {Comparing wavelet and Fourier perspectives on the decomposition of meridional energy transport into synoptic and planetary components},
+journal = {Quart.\ J.\ Roy.\ Meteor.\ Soc.},
+volume = {n/a},
+number = {n/a},
+pages = {},
+year={2020},
+keywords = {Arctic amplification, energy transport, latent heat, planetary waves, synoptic waves, wave decomposition, wavelets},
+doi = {10.1002/qj.3813},
+}
+
+
+@article{Lee2011a,
+  title={On the possible link between tropical convection and the Northern Hemisphere Arctic surface air temperature change between 1958 and 2001},
+  author={Lee, Sukyoung and Gong, Tingting and Johnson, Nathaniel and Feldstein, Steven B and Pollard, David},
+  journal={J.\ Climate},
+  volume={24},
+  number={16},
+  pages={4350-4367},
+  year={2011}
+}
+
+@article{BaggettLee2015,
+  title={Arctic warming induced by tropically forced tapping of available potential energy and the role of the planetary-scale waves},
+  author={Baggett, Cory and Lee, Sukyoung},
+  journal={J.\ Atmos.\ Sci.},
+  volume={72},
+  number={4},
+  pages={1562-1568},
+  year={2015}
+}
+
+
+@article{Baggett2016,
+  title={An investigation of the presence of atmospheric rivers over the North Pacific during planetary-scale wave life cycles and their role in Arctic warming},
+  author={Baggett, Cory and Lee, Sukyoung and Feldstein, Steven},
+  journal={J.\ Atmos.\ Sci.},
+  volume={73},
+  number={11},
+  pages={4329-4347},
+  year={2016}
+}
+
+@article{Baggett2017,
+  title={An identification of the mechanisms that lead to Arctic warming during planetary-scale and synoptic-scale wave life cycles},
+  author={Baggett, Cory and Lee, Sukyoung},
+  journal={J.\ Atmos.\ Sci.},
+  volume={74},
+  number={6},
+  pages={1859-1877},
+  year={2017}
+}
+
+
+@article{Yuan2018,
+  title={The interconnected global climate system: A review of tropical-polar teleconnections},
+  author={Yuan, Xiaojun and Kaplan, Michael R and Cane, Mark A},
+  journal={J.\ Climate},
+  volume={31},
+  number={15},
+  pages={5765-5792},
+  year={2018}
+}
+
+
+
+@article{HoskinsKaroly1981,
+  title={The steady linear response of a spherical atmosphere to thermal and orographic forcing},
+  author={Hoskins, Brian J and Karoly, David J},
+  journal={J.\ Atmos.\ Sci.},
+  volume={38},
+  number={6},
+  pages={1179-1196},
+  year={1981}
+}
+
+
+@article{SardeshmukhHoskins1988,
+  title={The generation of global rotational flow by steady idealized tropical divergence},
+  author={Sardeshmukh, Prashant D and Hoskins, Brian J},
+  journal={J.\ Atmos.\ Sci.},
+  volume={45},
+  number={7},
+  pages={1228-1251},
+  year={1988}
+}
+
+
+@article{Lee2014,
+  title={A theory for polar amplification from a general circulation perspective},
+  author={Lee, Sukyoung},
+  journal={Asia-Pacific Journal of Atmospheric Sciences},
+  volume={50},
+  number={1},
+  pages={31-43},
+  year={2014}
+}
+
+
+@article{Yoo2012a,
+  title={Mechanisms of Arctic surface air temperature change in response to the Madden--Julian oscillation},
+  author={Yoo, Changhyun and Lee, Sukyoung and Feldstein, Steven B},
+  journal={J.\ Climate},
+  volume={25},
+  number={17},
+  pages={5777-5790},
+  year={2012}
+}
+
+
+@article{Yoo2012,
+  title={Arctic response to an MJO-like tropical heating in an idealized GCM},
+  author={Yoo, Changhyun and Lee, Sukyoung and Feldstein, Steven B},
+  journal={J.\ Atmos.\ Sci.},
+  volume={69},
+  number={8},
+  pages={2379-2393},
+  year={2012}
+}
+
+
+@article{Goss2016,
+  title={Stationary wave interference and its relation to tropical convection and Arctic warming},
+  author={Goss, Michael and Feldstein, Steven B and Lee, Sukyoung},
+  journal={J.\ Climate},
+  volume={29},
+  number={4},
+  pages={1369-1389},
+  year={2016}
+}
+
+
+@article{ParkLee2019,
+  title={Relationship between Tropical and Extratropical Diabatic Heating and Their Impact on Stationary--Transient Wave Interference},
+  author={Park, Mingyu and Lee, Sukyoung},
+  journal={J.\ Atmos.\ Sci.},
+  volume={76},
+  number={9},
+  pages={2617-2633},
+  year={2019}
+}
+
+
+@article{Lee2012,
+  title={Testing of the tropically excited Arctic warming mechanism (TEAM) with traditional El Ni{\~n}o and La Ni{\~n}a},
+  author={Lee, Sukyoung},
+  journal={J.\ Climate},
+  volume={25},
+  number={12},
+  pages={4015-4022},
+  year={2012}
+}
+
+
+@article{Yoo2011,
+  title={The impact of the Madden-Julian Oscillation trend on the Arctic amplification of surface air temperature during the 1979-2008 boreal winter},
+  author={Yoo, Changhyun and Feldstein, Steven and Lee, Sukyoung},
+  journal={Geophys.\ Res.\ Lett.},
+  volume={38},
+  number={24},
+  year={2011},
+}
+
+@article{Gong2017,
+  title={The role of downward infrared radiation in the recent Arctic winter warming trend},
+  author={Gong, Tingting and Feldstein, Steven and Lee, Sukyoung},
+  journal={J.\ Climate},
+  volume={30},
+  number={13},
+  pages={4937-4949},
+  year={2017}
+}
+
+@article{Robinson2002,
+  title={On the midlatitude thermal response to tropical warmth},
+  author={Robinson, Walter A},
+  journal={Geophys.\ Res.\ Lett.},
+  volume={29},
+  number={8},
+  pages={31-1},
+  year={2002},
+}
+
+@article{Seager2003,
+  title={Mechanisms of hemispherically symmetric climate variability},
+  author={Seager, Richard and Harnik, Nili and Kushnir, Yochanan and Robinson, Walter and Miller, Jennifer},
+  journal={J.\ Climate},
+  volume={16},
+  number={18},
+  pages={2960-2978},
+  year={2003}
+}
+
+
+@article{LheureuxThompson2006,
+  title={Observed relationships between the El Ni{\~n}o--Southern Oscillation and the extratropical zonal-mean circulation},
+  author={L'Heureux, Michelle L and Thompson, David WJ},
+  journal={J.\ Climate},
+  volume={19},
+  number={2},
+  pages={276-287},
+  year={2006}
+}
+
+
+
+@article{YulaevaWallace1994,
+  title={The signature of ENSO in global temperature and precipitation fields derived from the microwave sounding unit},
+  author={Yulaeva, Elena and Wallace, John M},
+  journal={J.\ Climate},
+  volume={7},
+  number={11},
+  pages={1719-1736},
+  year={1994}
+}
+
+
+@article{WentzSchabel2000,
+  title={Precise climate monitoring using complementary satellite data sets},
+  author={Wentz, Frank J and Schabel, Matthias},
+  journal={Nature},
+  volume={403},
+  number={6768},
+  pages={414-416},
+  year={2000},
+}
+
+@article{Trenberth2005,
+  title={Trends and variability in column-integrated atmospheric water vapor},
+  author={Trenberth, Kevin E and Fasullo, John and Smith, Lesley},
+  journal={Climate Dyn.},
+  volume={24},
+  number={7-8},
+  pages={741-758},
+  year={2005},
+}
+
+@article{TrenberthSolomon1994,
+  title={The global heat balance: Heat transports in the atmosphere and ocean},
+  author={Trenberth, Kevin E and Solomon, Amy},
+  journal={Climate Dyn.},
+  volume={10},
+  number={3},
+  pages={107-134},
+  year={1994},
+  publisher={Springer}
+}
+
+@article{HeldSoden2006,
+  title={Robust responses of the hydrological cycle to global warming},
+  author={Held, Isaac M and Soden, Brian J},
+  journal={J.\ Climate},
+  volume={19},
+  number={21},
+  pages={5686-5699},
+  year={2006}
+}
+
+
+@article{Seager2010,
+  title={Thermodynamic and dynamic mechanisms for large-scale changes in the hydrological cycle in response to global warming},
+  author={Seager, Richard and Naik, Naomi and Vecchi, Gabriel A},
+  journal={J.\ Climate},
+  volume={23},
+  number={17},
+  pages={4651-4668},
+  year={2010}
+}
+
+@article{LorenzDeWeaver2007,
+  title={The response of the extratropical hydrological cycle to global warming},
+  author={Lorenz, David J and DeWeaver, Eric T},
+  journal={J.\ Climate},
+  volume={20},
+  number={14},
+  pages={3470-3484},
+  year={2007}
+}
+
+@article{Shin2017,
+  title={Dependence of Arctic climate on the latitudinal position of stationary waves and to high-latitudes surface warming},
+  author={Shin, Yechul and Kang, Sarah M and Watanabe, Masahiro},
+  journal={Climate Dyn.},
+  volume={49},
+  number={11-12},
+  pages={3753-3763},
+  year={2017},
+}
+
+@article{Shaw2015,
+  title={Response of the intertropical convergence zone to zonally asymmetric subtropical surface forcings},
+  author={Shaw, Tiffany A and Voigt, Aiko and Kang, Sarah M and Seo, Jeongbin},
+  journal={Geophys.\ Res.\ Lett.},
+  volume={42},
+  number={22},
+  pages={9961-9969},
+  year={2015},
+}
+
+
+@article{Danabasoglu2020,
+  title={The Community Earth System Model version 2 (CESM2)},
+  author={Danabasoglu, Gokhan and Lamarque, J-F and Bacmeister, J and Bailey, DA and DuVivier, AK and Edwards, Jim and Emmons, LK and Fasullo, John and Garcia, R and Gettelman, Andrew and others},
+  journal={Journal of Advances in Modeling Earth Systems},
+  volume={12},
+  number={2},
+  pages={e2019MS001916},
+  year={2020}
+}
+
+
+
+@article{Voigt2016,
+author = {Voigt, Aiko and Biasutti, Michela and Scheff, Jacob and Bader, Jürgen and Bordoni, Simona and Codron, Francis and Dixon, Ross D. and Jonas, Jeffrey and Kang, Sarah M. and Klingaman, Nicholas P. and Leung, Ruby and Lu, Jian and Mapes, Brian and Maroon, Elizabeth A. and McDermid, Sonali and Park, Jong-yeon and Roehrig, Romain and Rose, Brian E. J. and Russell, Gary L. and Seo, Jeongbin and Toniazzo, Thomas and Wei, Ho-Hsuan and Yoshimori, Masakazu and Vargas Zeppetello, Lucas R.},
+title = {The {t}ropical {r}ain belts with an {a}nnual cycle and a {c}ontinent {m}odel {I}ntercomparison {p}roject: {TRACMIP}},
+journal = {Journal of Advances in Modeling Earth Systems},
+volume = {8},
+number = {4},
+pages = {1868-1891},
+doi = {10.1002/2016MS000748},
+year = {2016}
+}
+
+
+@article{Dee2011,
+  title={The {ERA}-{I}nterim reanalysis: Configuration and performance of the data assimilation system},
+  author={Dee, DP and Uppala, SM and Simmons, AJ and Berrisford, Paul and Poli, P and Kobayashi, S and Andrae, U and Balmaseda, MA and Balsamo, G and Bauer, P and others},
+  journal={Quart.\ J.\ Roy.\ Meteor.\ Soc.},
+  volume={137},
+  number={656},
+  pages={553-597},
+  year={2011},
+  doi = {10.1002/qj.828},
+  publisher={Wiley Online Library}
+}
+
+
+@article{BlackburnHoskins2013,
+  title={Context and Aims of the Aqua-Planet Experiment},
+  author={Michael Blackburn and Brian J. Hoskins},
+  journal={J.\ Meteor.\ Soc.\ Japan},
+  volume={91A},
+  number={ },
+  pages={1-15},
+  year={2013},
+  doi={10.2151/jmsj.2013-A01}
+}
+
+
+@article{NealeHoskins2000,
+author = {Neale, R. B. and Hoskins, B. J.},
+title = {A standard test for AGCMs including their physical parametrizations: I: the proposal},
+journal = {Atmosph.\ Sci.\ Lett.},
+volume = {1},
+number = {2},
+pages = {101-107},
+doi = {10.1006/asle.2000.0022},
+year = {2000}
+}
+
+
+@article{Simmons1983,
+    author = {Simmons, A. J. and Wallace, J. M. and Branstator, G. W.},
+    title = "{Barotropic Wave Propagation and Instability, and Atmospheric Teleconnection Patterns}",
+    journal = {J.\ Atmos.\ Sci.},
+    volume = {40},
+    number = {6},
+    pages = {1363-1392},
+    year = {1983},
+    doi = {10.1175/1520-0469(1983)040<1363:BWPAIA>2.0.CO;2},
+}
+
+
+@article{TingSardeshmuhk1993,
+    author = {Ting, Mingfang and Sardeshmukh, Prashant D.},
+    title = "{Factors Determining the Extratropical Response to Equatorial Diabatic Heating Anomalies}",
+    journal = {J.\ Atmos.\ Sci.},
+    volume = {50},
+    number = {6},
+    pages = {907-918},
+    year = {1993},
+    doi = {10.1175/1520-0469(1993)050<0907:FDTERT>2.0.CO;2},
+}
+
+
+@article{HendonHartmann1985,
+    author = {Hendon, Harry H. and Hartmann, Dennis L.},
+    title = "{Variability in a Nonlinear Model of the Atmosphere with Zonally Symmetric Forcing}",
+    journal = {J.\ Atmos.\ Sci.},
+    volume = {42},
+    number = {24},
+    pages = {2783-2797},
+    year = {1985},
+    doi = {10.1175/1520-0469(1985)042<2783:VIANMO>2.0.CO;2},
+}
+
+
+@article{ScinoccaHaynes1998,
+    author = {Scinocca, J. F. and Haynes, P. H.},
+    title = "{Dynamical Forcing of Stratospheric Planetary Waves by Tropospheric Baroclinic Eddies}",
+    journal = {J.\ Atmos.\ Sci.},
+    volume = {55},
+    number = {14},
+    pages = {2361-2392},
+    year = {1998},
+    doi = {10.1175/1520-0469(1998)055<2361:DFOSPW>2.0.CO;2}
+}
+
+
+@article{WoodsCaballero2016,
+    author = {Woods, Cian and Caballero, Rodrigo},
+    title = "{The Role of Moist Intrusions in Winter Arctic Warming and Sea Ice Decline}",
+    journal = {J.\ Climate},
+    volume = {29},
+    number = {12},
+    pages = {4473-4485},
+    year = {2016},
+    doi = {10.1175/JCLI-D-15-0773.1}
+}
+
+@article{Ding2014,
+  title={Tropical forcing of the recent rapid Arctic warming in northeastern Canada and Greenland},
+  author={Ding, Qinghua and Wallace, John M and Battisti, David S and Steig, Eric J and Gallant, Ailie JE and Kim, Hyung-Jin and Geng, Lei},
+  journal={Nature},
+  volume={509},
+  number={7499},
+  pages={209-212},
+  year={2014},
+  publisher={Nature Publishing Group}
+}
+
+@article{HorelWallace1981,
+  title={Planetary-scale atmospheric phenomena associated with the Southern Oscillation},
+  author={Horel, John D and Wallace, John M},
+  journal={Mon.\ Wea.\ Rev.},
+  volume={109},
+  number={4},
+  pages={813-829},
+  year={1981}
+}
+
+@article{Branstator2014,
+  title={Long-lived response of the midlatitude circulation and storm tracks to pulses of tropical heating},
+  author={Branstator, Grant},
+  journal={J.\ Climate},
+  volume={27},
+  number={23},
+  pages={8809-8826},
+  year={2014}
+}
+
+@article{Neale2010,
+  title={Description of the {NCAR} community atmosphere model ({CAM} 5.0)},
+  author={Neale, Richard B and Chen, Chih-Chieh and Gettelman, Andrew and Lauritzen, Peter H and Park, Sungsu and Williamson, David L and Conley, Andrew J and Garcia, Rolando and Kinnison, Doug and Lamarque, Jean-Francois and others},
+  journal={NCAR Tech. Note NCAR/TN-486+ STR},
+  volume={1},
+  number={1},
+  pages={1-12},
+  year={2010}
+}
+
+@article{PapritzDunnSigouin2020,
+author = {Papritz, L. and Dunn-Sigouin, E.},
+title = {What Configuration of the Atmospheric Circulation Drives Extreme Net and Total Moisture Transport Into the Arctic?},
+journal = {Geophys.\ Res.\ Lett.},
+volume = {47},
+number = {17},
+pages = {e2020GL089769},
+keywords = {Arctic moisture transport, Arctic mid-latitude interactions, extratropical cyclones, blocks, planetary waves, Arctic surface warming},
+doi = {10.1029/2020GL089769},
+year = {2020}
+}
+
+@article{Lee2019,
+  title={Relation between Arctic moisture flux and tropical temperature biases in CMIP5 simulations and its fingerprint in RCP8. 5 projections},
+  author={Lee, Sukyoung and Woods, Cian and Caballero, Rodrigo},
+  journal={Geophys.\ Res.\ Lett.},
+  volume={46},
+  number={2},
+  pages={1088-1096},
+  year={2019},
+}
+
+@article{Branstator1987,
+  title={A striking example of the atmosphere's leading traveling pattern},
+  author={Branstator, Grant},
+  journal={J.\ Atmos.\ Sci.},
+  volume={44},
+  number={16},
+  pages={2310-2323},
+  year={1987}
+}
+
+@article{Hoerling1997,
+  title={El Ni{\~n}o, La Ni{\~n}a, and the nonlinearity of their teleconnections},
+  author={Hoerling, Martin P and Kumar, Arun and Zhong, Min},
+  journal={J.\ Climate},
+  volume={10},
+  number={8},
+  pages={1769-1786},
+  year={1997}
+}
+
+
+
+
+
+@article{PalmerMansfield1984,
+  title={Response of two atmospheric general circulation models to sea-surface temperature anomalies in the tropical east and west Pacific},
+  author={Palmer, TN and Mansfield, DA},
+  journal={Nature},
+  volume={310},
+  number={5977},
+  pages={483-485},
+  year={1984},
+  publisher={Springer}
+}
+
+@article{Wills2016,
+author = {Wills, Robert C. and Byrne, Michael P. and Schneider, Tapio},
+title = {Thermodynamic and dynamic controls on changes in the zonally anomalous hydrological cycle},
+journal = {Geophys.\ Res.\ Lett.},
+volume = {43},
+number = {9},
+pages = {4640-4649},
+keywords = {precipitation, hydrological cycle, moisture transport, climate change},
+doi = {10.1002/2016GL068418},
+year = {2016}
+}
+
+@article{Ruggieri2020,
+  title={North Atlantic circulation regimes and heat transport by synoptic eddies},
+  author={Ruggieri, Paolo and Alvarez-Castro, M Carmen and Athanasiadis, Panos and Bellucci, Alessio and Materia, Stefano and Gualdi, Silvio},
+  journal={J.\ Climate},
+  volume={33},
+  number={11},
+  pages={4769-4785},
+  doi = {10.1175/JCLI-D-19-0498.1},
+  year={2020}
+}
+
+
+@article{Woods2013,
+author = {Woods, Cian and Caballero, Rodrigo and Svensson, Gunilla},
+title = {Large-scale circulation associated with moisture intrusions into the Arctic during winter},
+journal = {Geophys.\ Res.\ Lett.},
+volume = {40},
+number = {17},
+pages = {4717-4721},
+doi = {10.1002/grl.50912},
+year = {2013}
+}
+
+
+@article{Simpson2016,
+  title={Causes of change in Northern Hemisphere winter meridional winds and regional hydroclimate},
+  author={Simpson, Isla R and Seager, Richard and Ting, Mingfang and Shaw, Tiffany A},
+  journal={Nature Climate Change},
+  volume={6},
+  number={1},
+  pages={65-70},
+  year={2016},
+}
+
+@article{Seager2014,
+  title={Causes of increasing aridification of the Mediterranean region in response to rising greenhouse gases},
+  author={Seager, Richard and Liu, Haibo and Henderson, Naomi and Simpson, Isla and Kelley, Colin and Shaw, Tiffany and Kushnir, Yochanan and Ting, Mingfang},
+  journal={J.\ Climate},
+  volume={27},
+  number={12},
+  pages={4655-4676},
+  year={2014}
+}
+
+
+
+@article{Sobel2001,
+  title={The weak temperature gradient approximation and balanced tropical moisture waves},
+  author={Sobel, Adam H and Nilsson, Johan and Polvani, Lorenzo M},
+  journal={J.\ Atmos.\ Sci.},
+  volume={58},
+  number={23},
+  pages={3650-3665},
+  year={2001}
+}
+
+@article{Ebisuzaki1997, 
+    title={A method to estimate the statistical significance of a correlation when the data are serially correlated}, 
+    author={Ebisuzaki, Wesley},
+    journal={J.\ Climate},
+    volume={10},
+    pages={2147-2153},
+    year={1997}
+    }

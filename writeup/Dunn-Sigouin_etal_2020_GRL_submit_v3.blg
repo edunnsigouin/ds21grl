@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Dunn-Sigouin_etal_2020_GRL_submit_v3.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: references.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 55 entries,
+            6951 wiz_defined-function locations,
+            1806 strings with 23827 characters,
+and the built_in function-call counts, 123432 in all, are:
+= -- 14851
+> -- 1017
+< -- 6811
++ -- 7192
+- -- 114
+* -- 8615
+:= -- 24229
+add.period$ -- 214
+call.type$ -- 55
+change.case$ -- 935
+chr.to.int$ -- 0
+cite$ -- 110
+duplicate$ -- 3307
+empty$ -- 4260
+format.name$ -- 1838
+if$ -- 22181
+int.to.chr$ -- 0
+int.to.str$ -- 165
+missing$ -- 0
+newline$ -- 1459
+num.names$ -- 440
+pop$ -- 1501
+preamble$ -- 1
+purify$ -- 220
+quote$ -- 0
+skip$ -- 7233
+stack$ -- 0
+substring$ -- 7700
+swap$ -- 1961
+text.length$ -- 112
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 4400
+warning$ -- 0
+while$ -- 616
+width$ -- 0
+write$ -- 1894
